@@ -1,4 +1,3 @@
-# Name: Yusra Hassan
 # Date: 2026/07/27
 # Class: CP423
 # Description: Script to extract documents from the tsb website
@@ -35,11 +34,13 @@ for i in range(len(links)):
     if (investigation_num + ".html") not in os.listdir("reports"):
         time.sleep(2)
         report = requests.get(doc_info["source"][i], headers=headers)
-        with open("reports/" + investigation_num + ".txt", "w", encoding="utf-8") as f:
+        with open("reports/" + investigation_num + ".html", "w", encoding="utf-8") as f:
             f.write(report.text)
+    else:
+        print(f"{investigation_num}.html is already in the folder")
 
 # Save links
 doc_info_df = pd.DataFrame(doc_info)
-doc_info_df.to_csv("doc_info.csv")
+doc_info_df.to_csv("doc_info.csv", index = False)
 
-print(f"There are {i} reports downloaded.")
+print(f"There are {i + 1} reports downloaded.")
