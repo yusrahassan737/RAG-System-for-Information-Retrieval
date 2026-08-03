@@ -7,6 +7,12 @@
 import pandas as pd
 import re
 import math
+# import gensim.downloader as api
+
+# Load the classic 300-dimensional Google News Word2Vec model
+# Note: This file is ~1.6GB and will download on its first execution
+# model = api.load("word2vec-google-news-300")
+
 
 # Compute BM25 for a given query for every document in matching postings lists
 def compute_bm25(query, inverted_index, dl_lookup): # query is a list of tokens
