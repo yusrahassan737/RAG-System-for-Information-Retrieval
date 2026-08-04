@@ -139,16 +139,17 @@ def compute_bm25(query, inverted_index, dl_lookup): # query is a list of tokens
 
 def dense_retrieval(query, docs, doc_em):
     global MODEL
+    # For dense retrieval, we use the full text instead of the pre-processed, tokenized verison,
+    # to better capture context and hidden meanings
     query_em = MODEL.encode(query, convert_to_tensor=True)
     sims = util.cos_sim(query_em, doc_em)[0] # compare embeddings
 
+    # Get the ranked results
     top_results = torch.topk(sims, k=min(TOP_K, len(docs)))
-
     results = pd.DataFrame({
         "document": top_results.indices.cpu().numpy(),
         "score": top_results.values.cpu().numpy()
     })
-
     results["rank"] = range(1, len(results) + 1)
 
     return results
