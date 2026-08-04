@@ -135,13 +135,12 @@ def compute_bm25(query, inverted_index, dl_lookup): # query is a list of tokens
     df["score"] = df["score"].round(3)
     df["rank"] = list(range(1, (len(df) + 1)))
     df = df.head(TOP_K)
-
     return df
 
 def dense_retrieval(query, docs, doc_em):
     global MODEL
     query_em = MODEL.encode(query, convert_to_tensor=True)
-    sims = util.cos_sim(query_em, doc_em) # compare embeddings
+    sims = util.cos_sim(query_em, doc_em)[0] # compare embeddings
 
     top_results = torch.topk(sims, k=min(TOP_K, len(docs)))
 
