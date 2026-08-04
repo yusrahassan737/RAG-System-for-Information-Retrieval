@@ -10,6 +10,8 @@ import math
 import torch
 from sentence_transformers import SentenceTransformer, util
 
+MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+
 # Compute BM25 for a given query for every document in matching postings lists
 def compute_bm25(query, inverted_index, dl_lookup): # query is a list of tokens
     # Hyperparameters
@@ -63,8 +65,11 @@ def compute_bm25(query, inverted_index, dl_lookup): # query is a list of tokens
 
 inverted_index = pd.read_csv("inverted_index.csv")
 doc_info = pd.read_csv("doc_info_updated.csv")
-scores_df = compute_bm25("ottawa", inverted_index, doc_info)
+scores_df = compute_bm25(pre_process("ottawa"), inverted_index, doc_info)
 scores_df.to_csv("results.csv")
 
-def dense_retrieval():
-    model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+def dense_retrieval(query, docs, chunks):
+    global MODEL
+    query_embedding = MODEL.encode(query, convert_to_tensor=True)
+    document_embeddings = MODEL.encode(docs, convert_to_tensor=True, show_progress_bar=True)
+

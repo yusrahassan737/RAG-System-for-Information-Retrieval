@@ -64,6 +64,7 @@ def construct_inverted_index(ind):
 
 def main():
     index = pd.DataFrame()
+    documents = []
     for i in range(len(all_reports)):
         # Read document
         with open("reports/" + all_reports[i], "r", encoding = "utf-8") as f:
@@ -99,6 +100,8 @@ def main():
             text = soup.find('article').get_text(separator=" ")
         else:
             print(f"{all_reports[i]} does not have an article element")
+
+        documents.append(re.sub(r"\s+", " ", text).strip()) # keep full text for dense retrieval
 
         # Pre-process the text, then get term-doc information
         tokens = pre_process(text)
