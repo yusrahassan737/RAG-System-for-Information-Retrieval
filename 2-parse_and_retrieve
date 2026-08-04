@@ -1,8 +1,7 @@
 # Date: 2026/07/27
 # Class: CP423
 # Description: Script to parse each document and combine into a corpus
-# Note:
-# R09W0259.html, R96Q0050.html and R96S0106.html do not have an article element
+# Note: R09W0259.html, R96Q0050.html and R96S0106.html do not have an article element
 
 from bs4 import BeautifulSoup
 import os
@@ -28,8 +27,8 @@ CHUNK_SIZE = 250
 CHUNK_OVERLAP = 50
 
 # Variables and set-up
-metadata = {"title" : [], "creator" : [], "modified" : [], "occurence_date" : [], "release_date" : []}
-doc_lengths = []
+metadata = []
+chunk_lengths = []
 index = pd.DataFrame()
 documents = []
 
@@ -78,12 +77,12 @@ def create_doc_index(doc_num, tokens):
 def construct_inverted_index(ind):
     # Sort postings
     ind = ind.sort_values(by = ["term", 'doc_no'])
-    ind["doc_info"] = ind["doc_no"].astype(str) + " (" + ind["term_freq"].astype(str) + ")"
+    ind["doc_term_freqs"] = ind["doc_no"].astype(str) + " (" + ind["term_freq"].astype(str) + ")"
 
     # Group by term, aggregate the strings of the ids together per term
-    inverted_ind = ind.groupby(by = 'term', as_index=False).agg({'doc_info': ', '.join})
-    inverted_ind["doc_freq"] = inverted_ind["doc_info"].str.count(",") + 1
-    inverted_ind["doc_freq"] = np.where(inverted_ind["doc_info"] != "", inverted_ind["doc_freq"], 0)
+    inverted_ind = ind.groupby(by = 'term', as_index=False).agg({'doc_term_freqs': ', '.join})
+    inverted_ind["doc_freq"] = inverted_ind["doc_term_freqs"].str.count(",") + 1
+    inverted_ind["doc_freq"] = np.where(inverted_ind["doc_term_freqs"] != "", inverted_ind["doc_freq"], 0)
 
     return inverted_ind
 
@@ -96,7 +95,7 @@ def compute_bm25(query, inverted_index, dl_lookup): # query is a list of tokens
 
     # Variables
     N = len(dl_lookup["doc_id"]) # total docs in the collection
-    AVG_DL = sum(dl_lookup["doc_length"]) / N # average document length
+    AVG_DL = sum(dl_lookup["chunk_length"]) / N # average document length
     bm25_scores = {}
 
     # Look through one token of the query at a time
@@ -111,14 +110,14 @@ def compute_bm25(query, inverted_index, dl_lookup): # query is a list of tokens
         if len(line) != 0:
             df = line["doc_freq"].item()
             idf = math.log((N - df + 0.5) / (df + 0.5))
-            matching_docs = line["doc_info"].item().split(",")
+            matching_docs = line["doc_term_freqs"].item().split(",")
 
             # Score one document at a time
             for j in matching_docs:
-                id, tf = re.search(r"(\d+) \((\d+)\)", j).groups() # extract the doc id and tf
-                id = int(id.strip())
+                id, tf = re.search(r"([^ ]+) \((\d+)\)", j).groups() # extract the doc id and tf
+                id = id.strip()
                 tf = int(tf)
-                dl = dl_lookup.iloc[id, -1] # get doc length of matching doc_id
+                dl = dl_lookup.loc[dl_lookup["chunk_id"] == id, "chunk_length"].item() # get doc length of matching doc_id
 
                 formula = idf * (((tf * (k1 + 1))
                 / (tf + k1 * (1 - b + b * (dl / AVG_DL))))
@@ -137,7 +136,7 @@ def compute_bm25(query, inverted_index, dl_lookup): # query is a list of tokens
     df = df.head(TOP_K)
     return df
 
-def dense_retrieval(query, docs, doc_em):
+def dense_retrieval(query, chunks, doc_em):
     global MODEL
     # For dense retrieval, we use the full text instead of the pre-processed, tokenized verison,
     # to better capture context and hidden meanings
@@ -145,7 +144,7 @@ def dense_retrieval(query, docs, doc_em):
     sims = util.cos_sim(query_em, doc_em)[0] # compare embeddings
 
     # Get the ranked results
-    top_results = torch.topk(sims, k=min(TOP_K, len(docs)))
+    top_results = torch.topk(sims, k=min(TOP_K, len(chunks)))
     results = pd.DataFrame({
         "document": top_results.indices.cpu().numpy(),
         "score": top_results.values.cpu().numpy()
@@ -156,6 +155,7 @@ def dense_retrieval(query, docs, doc_em):
 
 # Main loop
 for i in range(len(all_reports)):
+    meta_temp = {"chunk_id": None, "doc_id": None, "title" : None, "creator" : None, "modified" : None, "occurence_date" : None, "release_date" : None}
     # Read document
     with open("reports/" + all_reports[i], "r", encoding = "utf-8") as f:
         text = f.read()
@@ -165,21 +165,14 @@ for i in range(len(all_reports)):
     for j in ['title', 'creator', 'modified']:
         meta = soup.find('meta', attrs={'name': f'dcterms.{j}'})
         if meta:
-            metadata[j].append(meta.get('content'))
-        else:
-            metadata[j].append(None)
+            meta_temp[j] = meta.get('content')
 
     # Extract key times from report
     times = soup.find_all("time")
     if times:
-        metadata["occurence_date"].append(times[0].text)
+        meta_temp["occurence_date"] = times[0].text
         if len(times) > 1:
-            metadata["release_date"].append(times[1].text)
-        else:
-            metadata["release_date"].append(None)
-    else:
-        metadata["occurence_date"].append(None)
-        metadata["release_date"].append(None)
+            meta_temp["release_date"] = times[1].text
 
     # Main file content
     if soup.find('title'):
@@ -191,20 +184,33 @@ for i in range(len(all_reports)):
     else:
         print(f"{all_reports[i]} does not have an article element")
 
-    documents.append(re.sub(r"\s+", " ", text).strip()) # keep full text for dense retrieval
+    chunked = chunk_text(re.sub(r"\s+", " ", text).strip()) # remove all extra spaces
+    for chunk_num, chunk in enumerate(chunked):
 
-    # Pre-process the text, then get term-doc information
-    tokens = pre_process(text)
-    doc_lengths.append(len(tokens))
-    term_frequencies = create_doc_index(i, tokens)
+        documents.append(chunk) # original chunk text for dense retrieval    
+        tokens = pre_process(chunk) # preprocessed chunk for BM25
+
+        # Use a unique chunk ID instead of the report ID
+        chunk_id = f"{i}_{len(chunk_lengths)}"
+        chunk_lengths.append(len(tokens))
+        term_frequencies = create_doc_index(chunk_id, tokens)
+        index = pd.concat([index, term_frequencies], ignore_index=True)
+
+        metadata.append({
+            "chunk_id": chunk_id,
+            "chunk_length": len(tokens),
+            "doc_id": i,
+            "title": meta_temp["title"],
+            "creator": meta_temp["creator"],
+            "modified": meta_temp["modified"],
+            "occurence_date": meta_temp["occurence_date"],
+            "release_date": meta_temp["release_date"]
+        })
 
     # Testing if pre-processing is sufficient
     # with open("test.txt", "w") as f:
     #     f.write(text)
     #     f.write("\n" + str(tokens))
-
-    # Add this document's terms to the overall index
-    index = pd.concat([index, term_frequencies])
 
 # Get doc embeddings for dense retrieval
 document_embeddings = MODEL.encode(documents, convert_to_tensor=True, show_progress_bar=True)
@@ -217,19 +223,17 @@ print(f"There are {len(inverted_index)} terms in the vocabulary/inverted index")
 pd.DataFrame(inverted_index).to_csv("inverted_index.csv", index = False)
 
 # Add metadata and document lengths to file
-for i in metadata: 
-    doc_info[f"modified_{i}"] = metadata[i]
-doc_info["doc_length"] = doc_lengths
+chunk_info = pd.DataFrame(metadata)
+chunk_info = doc_info.merge(chunk_info, on = "doc_id")
 
 # Save
-doc_info.to_csv("doc_info_updated.csv")
+chunk_info.to_csv("chunk_info.csv", index = False)
 
 # Test results
 inverted_index = pd.read_csv("inverted_index.csv")
-doc_info = pd.read_csv("doc_info_updated.csv")
 
 # BM25
-scores_df = compute_bm25(pre_process("ottawa"), inverted_index, doc_info)
+scores_df = compute_bm25(pre_process("ottawa"), inverted_index, chunk_info)
 scores_df.to_csv("bm25_results.csv", index=False)
 
 # Dense Retrieval
