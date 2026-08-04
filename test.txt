@@ -1,1 +1,694 @@
-{'title': ['Railway Investigation Report R00C0159 - Transportation Safety Board of Canada', 'Railway Investigation Report R00D0026 - Transportation Safety Board of Canada', 'Railway Investigation Report R00D0098 - Transportation Safety Board of Canada', 'Railway Investigation Report R00E0126 - Transportation Safety Board of Canada', 'Railway Investigation Report R00H0004 - Transportation Safety Board of Canada'], 'creator': ['Government of Canada, Transportation Safety Board of Canada', 'Government of Canada, Transportation Safety Board of Canada', 'Government of Canada, Transportation Safety Board of Canada', 'Government of Canada, Transportation Safety Board of Canada', 'Government of Canada, Transportation Safety Board of Canada'], 'modified': ['2016-03-17', '2016-03-23', '2016-03-23', '2016-03-23', '2016-03-23'], 'occurence_date': ['19 December 2000', '10 March 2000', '30 August 2000', '12 December 2000', '20 June 2000'], 'release_date': ['04 February 2002', '10 July 2001', '26 February 2002', '06 December 2002', '18 December 2002']}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crossing AccidentsAthabasca Northern Railway Ltd.Freight Train Nº 590-19Mile 138.07, Waterways SubdivisionImperial Mills, Alberta
+
+
+19 December 2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Transportation Safety Board of Canada (TSB) investigated this occurrence for the purpose of advancing transportation safety. It is not the function of the Board to assign fault or determine civil or criminal liability. This report is not created for use in the context of legal, disciplinary or other proceedings. See Ownership and use of content. Masculine pronouns and position titles may be used to signify all genders to comply with the Canadian Transportation Accident Investigation and Safety Board Act (S.C. 1989, c. 3).
+
+
+
+
+Download this investigation report in PDF
+
+
+
+
+Table of contents
+
+
+
+
+
+
+
+
+ 
+Summary
+
+On 19 December 2000, at approximately 2037 mountain standard time, Athabasca Northern Railway Ltd. freight train Nº 590-19 was travelling southward over the secondary Highway 881 crossing at Mile 138.07 of the Waterways Subdivision when the 21st car was struck by a semi-trailer truck. As a result of the collision, the train brakes went into emergency, stopping the train with the 33rd car blocking the crossing. The driver of the truck was not injured. At approximately 2347, while the train was still occupying the crossing, a truck partially loaded with logs collided with the standing freight train. The driver of this truck was fatally injured.
+Le présent rapport est également disponible en français.
+
+
+
+ 
+Factual information
+
+The occurrence
+Collision nº 1
+On 19 December 2000, at approximately 2037 mountain standard time (MST)Footnote 1, Athabasca Northern Railway Ltd. (ANR) freight train Nº 590-19, travelling southward over the secondary Highway 881 crossing at Mile 138.07 of the Waterways Subdivision, experienced a train-initiated emergency brake application. The locomotive engineer immediately reported the incident to the Royal Canadian Mounted Police (RCMP) and the rail traffic controller (RTC). The responding RCMP officer arranged for notification of the emergency medical services (EMS) and fire department in Lac La Biche, Alberta, and placed a second officer on standby pending assessment of the situation. The conductor of the train determined that the 21st car, an empty box car, had been struck by a westbound semi-trailer on Highway 881. As a result of the collision, the train was disabled; the body of the box car was lifted off the wheel assembly at one end and the car uncoupled from the trailing gondola car. The damaged box car came to a stop approximately 245 m south of the crossing, with the trailing portion of the train blocking the crossing. The separation between the 21st car and the 22nd car was about 35 m.
+The westbound semi-trailer had been steered into the south-east ditch in an attempt to avert collision with the train. As a result, the truck spun 180 degrees and the rear of the empty trailer struck the train. The driver of the truck was not injured. Assistance was offered by a number of highway drivers who arrived on the scene. After the accident, approaching vehicles stopped on the east side of the crossing. The RCMP officer arrived at the scene from the west at approximately 2115, followed shortly by EMS and a fire department crew from Lac La Biche. The RCMP patrol car was stationed approximately 60 m west of the crossing in the eastbound lane, with the flashing beacon lights operating and the headlights on bright, facing the train. Upon determining that the highway was impassable, motorists began using Imperial Mills Road, located approximately 400 m east of the blocked crossing, which reconnected with Highway 881 approximately 2 km west of the crossing. Ambulance and fire crews were released from the site when it was determined that there were no injuries.
+After determining that vehicles were stopping safely, the RCMP officer on site elected not to require additional staff to attend the scene for traffic control purposes. It was considered that the police car, parked on the west side of the crossing, and several trucks with hazard lights and beacons flashing parked on the east side of the crossing provided adequate warning for oncoming traffic.
+The conductor assessed the damage to the 21st car and determined that a crane would be required to set the car body back on its truck to allow a coupling with the 22nd car to clear the crossing. He further indicated to the RCMP officer that this task would take two to three hours. This conversation took place at about 2130. No other potential course of action was discussed with the RCMP officer. Because the railway considered the occurrence to be a highway traffic matter, it had decided not to pursue its own investigation.
+The damaged rail car was moved to a crossing at Mile 137.5 (Imperial Mills Road) where repairs could be made. ANR personnel protected the site by flagging the highway traffic at this crossing while repairs were taking place.
+The damaged truck and trailer were removed from the Highway 881 ditch by approximately 2200.
+By 2315, only two vehicles remained at the Highway 881 crossing - on the west side, the RCMP vehicle, with headlights and flashing beacon on, and on the east side, a picker truck (tractor-trailer unit with a mounted crane), with headlights and four-way flashers on. The train was still occupying the crossing.
+Collision nº 2
+At approximately 2347, a westbound truck partially loaded with logs approached the crossing. The truck driver steered around the picker truck parked on the shoulder of the westbound lane and drove into the standing train. As a result of the collision, the driver was pinned in the cab. The cab was crushed between the rail car and the trailing load of logs. Some of the logs were catapulted over the train and parts of the truck came to rest protruding underneath and beyond the rail car to the west side of the crossing.
+At the time of the second collision, the driver from the tractor-trailer involved in the first collision and the RCMP officer had just finished discussing the particulars of the first collision and were returning to the east side of the train. They were in the process of crossing through the train from west to east at the first coupling north of the crossing when they observed the approaching truck. The approaching truck manoeuvred around the picker truck and struck the stationary train.
+Immediately after the logging truck struck the train, the RCMP officer requested EMS, fire department and police assistance from Lac La Biche. He also contacted his supervisor, who was off duty, to apprise him of the situation and obtain assistance. The EMS response team, the fire department and additional RCMP support arrived at the crossing at approximately 0015 on 20 December 2000. The fire department set up flares on the east side to provide protection while the truck driver was being extricated from the wreckage. Traffic was detoured through Imperial Mills Road. As the logs were being removed to free the driver, EMS provided medical assistance. The driver was extricated from the truck cab at approximately 0305, and transported to the Lac La Biche hospital, but did not survive his injuries.
+The temporary repairs to the train were completed at approximately 0030. At about 0500, after the driver had been extricated and the wreckage removed, the front portion of the train was moved back to couple onto the rear portion of the train, and the Highway 881 crossing was cleared.
+Weather
+The temperature was minus 20 degrees Celsius with a 10 km wind from the north. Visibility was clear. The night was dark with no moonlight. The road surface was slippery and covered with snow and ice.
+Method of train control
+Train movements on the Waterways Subdivision are controlled by the Occupancy Control System (OCS), authorized by the Canadian Rail Operating Rules (CROR) and supervised by an RTC located in North Bay, Ontario, a service provided by Rail America, Inc.
+Train operations
+ANR operated trains in north-eastern Alberta on the Lac La Biche and Waterways subdivisions under the operating authority of Central Western Railway (CWR), the previous operator of the rail line.Footnote 2 Within the province of Alberta, ANR was regulated by the Alberta Ministry of Transportation Infrastructure Branch (Alberta Infrastructure). Alberta Infrastructure's policy required that all railway accidents or incidents be immediately reported to the provincial government's Coordination and Information Centre (CIC). The train crew members were not familiar with this requirement, and did not have the CIC number readily available, although they did notify CWR. CWR reported the accidents to the CIC at 0100 on 20 December 2000.
+The authorized maximum track speed on the Waterways Subdivision is 30 mph. The train operates six days per week, travelling northward to Fort McMurray, Alberta, one day and returning the next day, with Fridays off for locomotive maintenance.
+Athabasca Northern Railway Ltd. train nº 590-19
+The train consisted of 2 locomotives, 41 coal hopper cars loaded with coke and 1 empty box car. It was approximately 2 700 feet long and weighed about 5 320 tons. The recorded speed of the train at the time of the accident was approximately 23 mph. Box car CN 414207 sustained damage to the side of the car body from the impact with the trailer from the first collision. Gondola coal car CN 196116 sustained minor damage from the impact with the logging truck.
+The hopper cars were painted black with white identification letters and white owners' emblems. There were four-inch-diameter reflectorized discs on each of the hopper cars. On the car that was struck by the logging truck, two markers on the leading end of the car, which would have been in the view of the truck driver, had been painted over with black paint. The markers were installed in 1975, the manufacture date of the car. Subjective evaluation of the discs indicated an accumulation of significant amounts of dirt and very limited visibility.
+The train crew members consisted of a conductor and a locomotive engineer located in the lead locomotive. They were qualified for their respective positions. The conductor was also a qualified carman. They had started work at 0930 on 19 December 2000, and had been on duty about 11 hours when the first accident occurred.
+The tractor-trailer
+The vehicle involved in the first collision, a 1981 Kenworth, with a highboy/oilfield slope trailer, was returning to Lac La Biche after unloading a slop tank in Conklin, Alberta. The driver's log indicated that he had been off duty the previous two days, and had commenced duty at noon on December 19. The truck was not equipped with an event recorder.
+The driver was familiar with the general area, but had not driven on this section of road for a number of years. He was travelling at 90 km/h when he noticed the advance warning signs (AWS) for the railway crossing, and slowed down to approximately 80 km/h to avoid damage to his truck in the event that the crossing was uneven. At an estimated 200 m from the crossing, he noticed the train wheels going over the crossing. He immediately tried to stop, and when it appeared as though the truck would not stop in time to avert collision with the train, he steered the truck into the ditch. On the approach to the crossing, he had been bothered by glare in his mirror from the reflection of the headlights of the truck following him.
+The logging truck
+The vehicle involved in the second collision, a 1997 Freightliner tandem truck with tandem trailers (B-train), was en route to Boyle, Alberta, with a partial load of logs on the first trailer behind the cab. The truck was owned by a local trucking company, under contract with Alberta- Pacific Forest Industries Inc. (ALPAC). The driver had been employed by the company for three years. The tractor from the logging truck was destroyed.
+The driver's electronic log indicated that he had been off duty on December 17. After that date, the driver had the following schedule:
+
+on December 18 he commenced duty at 0100, worked for 9.75 hours, and was off duty for 11.5 hours;
+he recommenced duty at 2230, and worked until 0730 on December 19;
+he was off duty for 10.5 hours, and recommenced duty at 1830, working until the time of the accident.
+
+The average duty day since December 12 was approximately 12.5 hours. Including the one day off duty, the driver had worked 76.5 hours in seven days.
+Alberta provincial legislation permits truck drivers who do not cross provincial boundaries to be on duty for 15 hours per day, with a maximum of 13 driving hours. There were no weekly or monthly restrictions.
+As part of the ALPAC contract agreement, all logging trucks were required to install an event recorder that monitored a number of truck-related performance characteristics, the location of the truck through a Global Positioning System (GPS), and the status of the driver (driving, on duty, off duty). ALPAC monitored each trip for safety violations, and made available the output of each trip to the contracting company for scrutiny of both road safety and vehicle performance variables.
+The recorded information indicated that the truck was travelling at approximately 92 km/h while approaching the railway crossing, and then reduced speed to approximately 88 km/h approximately 15 seconds before impact. A brake application was made approximately four seconds before the collision. The recorded speed at impact was approximately 68 km/h.
+It is not uncommon to see trucks with activated flashers and/or beacons pulled onto the shoulder of Highway 881. In most cases, the drivers of these trucks are taking a rest break.
+Highway traffic control
+No hazard warning devices were placed on the highway to warn oncoming traffic that the crossing was blocked, and drivers of motor vehicles or train crews were not required to do so by regulation.
+The Royal Canadian Mounted Police (RCMP)
+The RCMP does not have a policy at the national level, or within the province of Alberta, that directs "specific" traffic control action at collision sites. This aspect of RCMP procedure is covered in the Collision Investigation Section of the RCMP training at the training academy in Regina, Saskatchewan, and is followed up during in-service training on RCMP accident investigation courses. This training module identifies the primary task for a police officer arriving at an accident scene as the protection of the scene from further collisions. The police officer must conduct a risk assessment and take into consideration many factors, such as location and severity of the collision, traffic, road/weather conditions, visibility and other potential dangers. Once this risk assessment is conducted, the police officer is tasked with taking the action he/she deems appropriate under the circumstances. This action could include the use of emergency equipment to assist with traffic control, or the requirement to obtain the assistance of other officers or agencies. The training module also covers aspects such as the use of detours and handling of hazardous material. Although specific policy does not direct the police officer, the RCMP training module does require a risk assessment and appropriate action, based on the assessment.
+There were two officers on duty at the time of the accident. The officer deployed to the site was in charge of the Lac La Biche detachment on the night of the accident. He understood that RCMP policy required control of traffic at the scene of an accident to ensure that public safety was protected, through the use of hazard warning devices, flagging, or whatever other means available. He interpreted the policy to give him full latitude to decide how many officers would attend the site and by what means traffic control would be accomplished. Given the limited resources available, he elected to attend the accident scene alone to assess the situation before requesting assistance from the other officer. At the time of the accident, the other officer was responding to another highway traffic-related occurrence and throughout the evening he was required to attend to a number of other urgent issues. There were other off-duty officers potentially available within the detachment; however, contact with the off-duty supervisor would have been necessary to elicit their assistance.
+The Lakeland County had provided the RCMP detachment with emergency call numbers in case its assistance was required. However, the responding officer was not aware that resources from the Lakeland County were at his disposal.
+Immediately after the second accident, the RCMP officer contacted his supervisor and additional assistance was arranged both for traffic control and emergency response. He was relieved by the second officer on duty and departed from the scene at about 0300.
+The Lakeland County was contacted at 0330 to assist with traffic control at the accident site.
+The train crew
+Safe working practices for railway train crews are contained in the CROR and railway general operating instructions. ANR had adopted the federal requirements contained in the CROR as part of its operating agreement. General railway operating philosophy dictates that advance warning of the intent for a train to occupy a public crossing be provided in the form of the sounding of the locomotive horn and bell, as well as illumination of the headlight and ditch lights. CROR Rule 103, Public Crossings at Grade, paragraph (c), states that, once a public crossing has been occupied by a train:
+No part of a train or engine may be allowed to stand on any part of a public crossing at grade, for a longer period than five minutes, when vehicular or pedestrian traffic requires passage. Switching operations at such crossings, must not obstruct vehicular or pedestrian traffic for a longer period than five minutes at a time. When emergency vehicles require passage, employees must cooperate to clear public crossings at grade and private crossings as quickly as possible.
+There are no specific requirements for railway employees to protect motor vehicles from coming into contact with a train that has fully occupied a public crossing and has become disabled. However, CROR Rule 101, Protection of Extraordinary Conditions, paragraph (a), states:
+A train or engine must be fully protected against any known or suspected condition which may interfere with its safe passage.
+CROR General Rule A requires that:
+
+Every employee in any service connected with the movement of trains or engines shall;
+[. . .]
+
+communicate by the quickest available means to the proper authority any condition which may affect the safe movement of a train or engine and be alert to the company's interest and join forces to protect it;
+obtain assistance promptly when it is required to control a harmful or dangerous condition. 
+
+
+The train crew members did not take part in providing traffic control at the Highway 881 public crossing; however, they provided traffic control at the public crossing at Mile 137.59, where the damaged boxcar was being repaired. Consistent with standard railway operating philosophy, it was not the ANR crew's responsibility to protect highway traffic once the train had fully occupied Highway 881.
+The crossing
+Secondary Highway 881 was constructed during the late 1980s as an alternate road to Alberta Highway 63 from Edmonton to Fort McMurray. The road serves the communities between Lac La Biche and Fort McMurray. A portion of the highway between the junction of Secondary Highway 858 and Heart Lake was paved in the spring of 2000. There are six public crossings on Highway 881 which are protected by standard reflectorized crossing signs. Three of these crossings, located at Mile 117.39, Mile 121.0 and Mile 138.07, are on the paved portion of the highway. The remaining three crossings are located on the gravelled portion of the highway. All the crossings are under the jurisdiction of the Lakeland County.
+The crossing at Mile 138.07 was protected by a standard reflectorized crossing sign, which was installed in 1990. A red retroreflective strip, 4 inches wide by 4 feet 6 inches high, was installed on the back of the crossing sign posts in 1998. An AWS, in the direction that the trucks were travelling, was located approximately 200 m east of the crossing. In addition, there were warning signs stating "WARNING: RAILWAY TRACK NOW IN USE" located 325 m east of the crossing. White crossing markings were painted on the pavement immediately preceding the crossing and at the AWS locations, in both directions, but they were obscured by the snow and ice. There was no nighttime illumination at this crossing.
+Sight-line distances for westward vehicles located 150 m from the crossing provided a view of approaching southward trains 160 m from the crossing. The view of the standard reflectorized crossing signs (crossbucks) was partially blocked by the position of the picker truck. The angle at which the crossing intersected the roadway was 67 degrees, and the track and highway are both tangent. The roadway approach grades to the crossing were level (see Figure 1).
+
+
+
+
+Figure 1. Sketch showing crossing layout at Mile 138.0
+
+
+
+Image
+ 
+
+
+
+
+
+
+
+
+The posted highway speed was 80 km/h. On 01 February 2001, a bylaw to increase the speed to 100 km/h was approved. The average annual daily traffic (AADT) for Highway 881, based on a 1998 survey conducted by Alberta Infrastructure, was projected to be 540 vehicles per day in 1999. However, it should be noted that vehicular traffic varies by season with a concentration of heavy trucks hauling logs or oil field equipment during the winter months. The train frequency is slightly less than one train per day.
+Train operations on this rail line were intermittent before ANR purchased the rail line in August 2000. When ANR commenced operating the rail line, the company advertised in the local newspaper to inform the public that the railway would be in operation once again. ANR also held meetings with ALPAC to discuss safety issues surrounding railway crossings, which resulted in ALPAC issuing safety information to its truck contractors, as well as safety notices posted at ALPAC's truck weigh-in stations.
+Provincial / Federal regulatory regimes
+Responsibility for regulation and overview of provincial railway operations lies with the provincial government. Any reference to Transport Canada regulations would not apply to railways operating under the province of Alberta's authority. However, Transport Canada collaborates with many provinces, including Alberta, on information regarding Direction 2006, Operation Lifesaver, and the Federal-Provincial Regulatory Regimes Harmonization Project. The purpose of the Federal-Provincial Regulatory Regimes Harmonization Project is to ascertain, contrast and compare federal and provincial rail safety regulatory regimes for the purpose of identifying gaps and opportunities for greater harmonization between jurisdictions.
+Frequency of nighttime accidents at passive crossings
+There are approximately 15 700 passively protected public crossings under federal jurisdiction in Canada. While the total number of occurrences at passive crossings steadily decreased from 1996 to 2000, this is attributed largely to the decrease in daytime occurrences. The number of nighttime occurrences has remained relatively constant. The data also indicate that, in comparison to daytime occurrences, nighttime occurrences involved a larger proportion of trains being struck by vehicles.
+
+
+ 
+1996
+1997
+1998
+1999
+2000
+
+
+Daytime
+
+
+Struck by vehicle
+30
+20
+11
+12
+18
+
+
+Struck vehicle
+59
+49
+38
+38
+29
+
+
+Total
+89
+69
+49
+50
+47
+
+
+Nighttime
+
+
+Struck by vehicle
+21
+15
+32
+22
+22
+
+
+Struck vehicle
+27
+22
+14
+23
+11
+
+
+Total
+48
+37
+46
+45
+33
+
+
+Total
+
+
+Struck by vehicle
+51
+35
+43
+34
+40
+
+
+Struck vehicle
+86
+71
+52
+61
+40
+
+
+Total
+137
+106
+95
+95
+80
+
+
+Fatal accidents
+11
+9
+14
+16
+10
+
+
+Accidents with injury
+28
+18
+13
+12
+5
+
+
+Driver expectations in road design
+Road authorities attempt to establish consistency in road design, signing and signalling practices as a means to develop driver expectations, which in turn permit smoother and safer traffic flows.
+U.S. research indicates an inconsistent understanding of what driver responsibilities are when approaching a passive crossing.Footnote 3 In particular, when asked what the appropriate action was when encountering a crossbuck, some drivers thought they must yield, others thought they must stop, and others thought they did not have to take any action.
+Accident investigations conducted by the U.S. National Transportation Safety Board (NTSB) have shown that many drivers do not expect to see a train, and therefore do not actively look for trains as they approach a crossing.Footnote 4 This finding is supported by models of human performance showing that expectancy is developed over time and personal experience. Thus, each time a driver encounters a crossing where there is no train in sight, this reinforces his/her expectation that a train will not be present. The NTSB research also indicates that drivers underestimate the frequency of train crossings, on average by a factor of three.Footnote 5
+Another difficulty created by driver expectations is that they are extremely powerful in shaping attention, and consequently, perception. It is not uncommon that people see (or hear) what they expect to see, and this may not correspond with what is actually visible. When an event that is not expected occurs, it may go unnoticed by the observer. An unexpected event is more likely to be noticed if the event is perceptually salient,Footnote 6 and people typically take longer to respond to unexpected events and tend to make more errors in their response.
+Educational material
+Alberta Infrastructure's Basic Licence Driver's Handbook and the supplement for Large Trucks, Tractor Trailers, Ambulances, Taxis and Buses provide a section on railway crossings, with definitions of warning devices that can be associated with crossings, as well as some safety tips. Figure 2 shows some of the information provided for railway crossings.
+
+
+
+
+Figure 2. Information provided in Alberta Infrastructure's Basic Licence Driver's Handboook
+
+
+
+Image
+ 
+
+
+
+
+
+
+
+
+
+
+Sign
+Meaning
+
+
+A. advance railway crossing warning sign
+Look, listen and slow down because you may have to stop.
+
+
+B. advisory speed sign
+The safe road speed is less than the posted speed.
+
+
+C. railway crossbuck sign
+Drivers have to yield to all trains. If there is more than one track, the sign below the crossbuck indicates the number of tracks.
+
+
+D. pavement markings
+Indicate the approach of a railway crossing.
+
+
+E. crossbuck with a stop sign
+Drivers must stop no closer than 5 m and no further than 15 m from the nearest rail. Drivers must not proceed until they can do so safely.
+
+
+With regard to nighttime conditions, the Basic Licence Driver's Handbook states "You should be able to stop within the distance illuminated by your headlights."
+Research on the configuration and reflectorization of passive crossings
+Research on improving the configuration and reflectorization of material used for passive crossings suggests that there are significant benefits to adding reflectorized material on the back of each blade of the crossbuck, and down the front and back of the posts.Footnote 7 This configuration results in a nighttime "flicker" or "strobe" effect on the far side crossbuck when a train is moving across the crossing, increasing the likelihood that a driver would be alerted to the train. This configuration is believed to be particularly helpful for the following reasons:
+
+The reflectorized posts have a very high visual impact at night, especially in dark rural areas from a distance of as much as 600 m.
+RetroreflectiveFootnote 8 posts create a "goal post" effect at night which helps the driver more accurately estimate the distance from the crossing.
+Drivers are likely to approach the crossing at a higher level of alertness, at a slower speed and consequently be better prepared to stop if necessary.
+Drivers will learn to expect to see two bright posts (the "goal post"). The absence of the left post from the view, or the intermittent appearance and disappearance of the left post as a train travels past the crossing should alert drivers to the presence of the train.
+
+National standards for reflectorization of crossings
+At the time of the accident, the national standards with respect to reflectorization and configuration of the crossing signs were governed by Transport Canada's Railway-Highway Crossing at Grade Regulations (CTC 1980-8 RAIL). However, Transport Canada is in the process of approving regulatory changes and improved national standards governing the placement, design and specifications of the reflective material on railway crossing signs (currently the 14 September 2000 draft entitled Road/Railway Grade Crossings - Technical Standard and Inspection, Testing, and Maintenance Requirements). These standards do not apply to operations on the ANR or any other railway under provincial jurisdiction.
+Reflectorization of rail cars
+In May 1959, the Board of Transport Commissioners for Canada (BTC) issued Order Nº 097788, which required all Canadian freight cars operating on federally regulated railways to be reflectorized. This was followed by BTC Order Nº 123336 on 26 January 1967 which required that all freight cars measuring 50 feet or less in length have four reflectors per side, and that cars measuring greater than 50 feet have six reflectors per side. The reflective material was to be a four-inch disc or diamond-shaped reflector made of an engineering-grade material. This requirement is still in effect for Canadian cars. The United States do not currently require trains to have reflectorized markers, and Transport Canada permits unreflectorized North American cars to enter and operate in Canada. The province of Alberta has no requirements for the reflectorization of rail cars operating on lines under provincial jurisdiction. All of these rail cars would typically be interchanged to and from federal lines.
+Canadian Pacific Railway (CPR) has initiated a program for the application of a new type of reflective material to new cars purchased, long-term lease cars, and cars that are completely repainted. Approximately 20 per cent of the cars in CPR's fleet now have these reflectorized markers. Canadian National (CN) has also initiated a program for the application of diamond- grade reflective material to new cars purchased, long-term leases and cars that are overhauled. The remainder of CN's and CPR's fleets has not been upgraded from the original requirement for size and type of reflective material. At present, neither railway has a program in place to maintain reflectorized markers. However, CN is studying the feasibility of applying and maintaining the diamond-grade material to all cars in its fleet.
+Research on the potential use of freight car reflectorization was conducted by the U.S. Federal Railroad Administration (FRA) in the early 1980s. These studiesFootnote 9 assessed the impact of age and dirt on the reflective intensity of engineering-grade retroreflective sheeting and high-intensity reflective sheeting. The results indicated that, after 6 months, 1 year, and 2 years of service, the average reflective intensity of the engineering-grade retroreflective sheeting was reduced to 23 per cent, 14 per cent, and 5 per cent, respectively, of its initial value, and human observers judging the reflectivity at night indicated that 61 per cent of these cars were in poor condition. Similar preliminary results were found for the high-intensity reflective sheeting. These findings led the FRA to conclude that the performance of this type of material did not justify the costs. However, recent improvements in the reflective material (brightness, durability, and adhesive properties) led the FRA to reconsider the use of reflectorization as a countermeasure against nighttime condition crossing accidents. A comprehensive research program was initiated in the U.S. in 1990 through the Volpe National Transportation Systems Center (Volpe), with the final report published in 1999.Footnote 10 The significant findings from this research are summarized as follows (see Appendix A for a more detailed list):
+
+A uniform recognizable pattern of reflective markings can be applied to most freight car types, with a few exceptions.
+A reflectorized freight car is significantly more detectable than a non-reflectorized freight car.
+A uniform pattern of reflectorized material can facilitate recognition of the hazard as a freight car.
+Configuration/location of the reflectors is important (favourable locations are indicated).
+The recently developed prismatic materials' durability and adhesiveness are likely to perform above threshold levels for up to 10 years with routine maintenance (maintenance program costs were estimated).
+Limited accident data suggest that freight car reflectorization is potentially effective in reducing accidents.
+
+On 26 October 2001, the FRA announced that a preliminary analysis evaluating the costs and benefits of placing retroreflective material on certain rail rolling stock to reduce collisions at highway-rail crossings has been placed in the public docket established to receive information on the topic. The FRA indicated that, after extensive analysis and because of technological advances since 1982, the reflectorization of rail freight equipment appears to be a viable and cost-effective method of reducing the number of collisions at highway-rail grade crossings and the casualties and property damage that can result from those collisions.
+Transport Canada is working with Canadian railways and the FRA for the application of reflective material on all freight cars.
+Other factors affecting nighttime visibility
+During daytime driving conditions, the human eye can distinguish a target on the road through contrast in colour, pattern, shading, texture or brightness. At low levels of illumination, such as night driving, contrast in brightness is generally the only means of distinguishing objects. If there are no fixed lighting systems, the only means to achieve contrast of an object from its background is through vehicle headlights. The effectiveness of headlights in providing sufficient contrast between an object and its background depends largely on differences in reflectivity. For example, if the amount of light reflected from the surface of the object (referred to as its luminance) is four times greater than the luminance of its background, a driver is more likely to detect the object than if the difference in luminance were only two-fold.
+The effect of dirt on the driver's own headlights can have a significant effect on visibility. Studies have shown that, under wet and slushy conditions, illumination for most vehicles can be reduced by more than 50 per cent in the area below horizontal, which can result in a 15 per cent decrease in forward visibility. Both trucks involved in the accident at Mile 138.07 were regularly operating on gravel roads, increasing the chances that dirt would accumulate on the headlights. However, it is not known whether the trucks' lights had accumulated dirt on the night of the accident.
+Dirt also has a marked effect on retroreflectors because the light has to pass through the dirt layer twice. Reflective material mounted on trucks in the early 1990s was found to exhibit losses of 75 per cent to 90 per cent during the winter months.Footnote 11
+Visual glare can create discomfort or annoyance to the receiver, as well as diminish visual capability, such that the contrast of objects in the forward field of view is greatly diminished.Footnote 12
+Highway design considerations
+A number of engineering guides are available to help road authorities determine appropriate locations for installing traffic devices, such as signs, and determine safe vehicle speeds. In Canada, the Transportation Association of Canada (TAC) publishes the Manual of Geometric Design Standards for Canadian Roads.
+Stopping sight distance (SSD) is defined as the sum of the distance travelled during perception and reaction time and braking distance. Braking distance is the distance that it takes to stop the vehicle once the brakes have been applied.
+The 1999 Manual of Geometric Design Standards for Canadian Roads includes the following explanations:
+
+Stopping sight distance allows alert, competent drivers to come to a quick stop under ordinary circumstances. This distance is usually inadequate when drivers must make complex decisions, when information is difficult to find, when information is unusual or when unusual manoeuvres are required. Limiting the sight distance to the stopping sight distance may preclude drivers from performing unusual, evasive manoeuvres. Similarly, stopping sight distance may not provide drivers with enough visibility to allow them to piece together warning signals and then decide on a course of action. Because decision sight distance allows drivers to manoeuvre their vehicles or vary their operating speed rather than stop, decision sight distance is much greater than stopping sight distance for a given design speed.
+ Designers should use decision sight distance whenever information may be perceived incorrectly, decisions are required or where control actions are required. Some examples of where it could be desirable to provide decision sight distance are:
+
+complex interchanges and intersections
+locations where unusual or unexpected manoeuvres occur
+locations where significant changes to the roadway cross section are made
+areas where there are multiple demands on the driver's decision making capabilities from: road elements, traffic control devices, advertising, traffic, etc.
+construction zones.
+
+
+In the 1999 Manual of Geometric Design Standards for Canadian Roads, for highways with a design speed of 80 km/h, a decision sight distance (DSD) of 155 m to 315 m is recommended, while the recommended SSD is 115 m to 140 m for automobiles (and trucks with antilock braking systems), and 155 m to 210 m for trucks with conventional braking systems. With a design speed of 100 km/h, a DSD of 225 m to 405 m is recommended, while the recommended SSD is 160 m to 210 m for automobiles (and trucks with antilock braking systems), and 235 m to 330 m for trucks with conventional braking systems.
+A significant change between the 1999 Manual of Geometric Design Standards for Canadian Roads and the 1986 Manual of Geometric Design Standards for Canadian Roads was the inclusion of a variation in SSD for trucks. This change was made in recognition of the highly variable nature of truck braking distances. In the 1986 Manual of Geometric Design Standards for Canadian Roads, there were no differences in the SSD recommendations for passenger vehicles and trucks.
+The specifications in Transport Canada's draft Road/Railway Grade Crossings - Technical Standard and Inspection, Testing, and Maintenance Requirements use these values for the design of road approaches, assessment of SSDs for existing grade crossings, sight-lines, and the placement and alignment of signs and grade crossing warning signals. The specifications provide different SSDs for passenger cars and trucks, as recommended in the 1999 Manual of Geometric Design Standards for Canadian Roads.
+Stopping sight distances
+
+
+ 
+1999 Manual of Geometric Design Standards for Canadian Roads
+Alberta Infrastructure's Highway Geometric Design Guide
+
+
+Maximum permissible speed (km/h)
+Passenger cars (m)
+Trucks (m)
+1985
+1999
+
+
+21 - 30
+30
+45
+N/A
+N/A
+
+
+31 - 40
+45
+70
+45
+45
+
+
+41 - 50
+65
+110
+65
+65
+
+
+51 - 60
+85
+130
+85
+85
+
+
+61 - 70
+110
+180
+110
+110
+
+
+71 - 80
+140
+210
+140
+140
+
+
+81 - 90
+170
+265
+170
+170
+
+
+91 - 100
+210
+330
+200
+200
+
+
+101 - 110
+250
+360
+220
+235
+
+
+The SSDs applied during the construction of Highway 881 were from Alberta Infrastructure's 1985 Highway Geometric Design Guide.Footnote 13 The guide did not differentiate between SSDs for automobiles and trucks. In August 1999, Alberta Infrastructure published a revised version of the Highway Geometric Design Guide, which also did not differentiate between SSDs for automobiles and trucks.
+
+
+
+ 
+Analysis
+
+The crossing at Mile 138.07 was typical of many crossings found in rural Canada, except for the signs indicating that the rail line was now in service. The environmental factors of significance were that it was a cold, dark, but clear night and the roads were snow-covered and icy.
+When the first accident occurred, there was no illumination in the general vicinity of the crossing. The locomotive was well past the crossing and there were no automatic warning devices to show that the crossing was occupied by a train. Approximately three hours later, when the second accident occurred, there was one vehicle on each side of the crossing - the police vehicle on the west side, and the picker truck on the east side.
+The analysis will explore why neither driver detected the presence of the train at a distance that allowed safe braking to stop ahead of the crossing.
+The driver of the tractor-trailer did not significantly slow down in response to the advance warning sign because he did not expect a train to be at the crossing and because there was no other information present to contradict this expectation. His expectation that there would be no train was based on his experience of rarely, if ever, encountering trains in this area. This explanation is consistent with the findings from many other crossing investigations.
+The assumption behind the passive crossing system is that a driver will see the advance warning sign, and immediately adjust driving behaviour to be prepared to stop short of the crossing if a train is detected. In other words, the system requires that the driver always expect a train. The reality is that many situations actually create the opposite expectation, i.e., that a train will not be present. This situation was likely prevalent in the Lac La Biche area, due to the low frequency with which trains operated, and the recent history of train operations starting up on this territory. This situation existed despite ANR's and ALPAC's measures to alert the public and commercial truck operators that railway operations had resumed.
+The AWS at this crossing did not indicate to the drivers what action must be taken. In particular, the signs did not communicate to the drivers that the crossing protection was passive nor did they identify the distance to the crossing or a safe driving speed. The situation found at Lac La Biche is very common across Canada. Some highways have additional warning signs pertaining to the crossing; however, the application is inconsistent among highway authorities. For example, some highway authorities may post the distance to the crossing, and still others may post yield or "expect a train" signs. Under nighttime conditions, the information conveyed by these additional signs may be particularly beneficial to the driver, as there are so few visual cues available to alert the driver to a train occupying the crossing.
+The driver of the tractor-trailer did not begin to react to the moving train until he was an estimated 200 m away. The driver of the logging truck reacted to the stationary train only four seconds before impact, 100 m from the crossing. While the headlights of either trucks could only be expected to effectively illuminate about 100 m ahead, it is likely that the driver of the tractor-trailer reacted earlier because the human eye is very sensitive to motion. Motion attracts a person's attention, helps differentiate between an object and its background, and provides information on the shape of the moving object. Although the headlights of the stationary picker truck straddling the shoulder of the highway were shining on the black rail cars, the stationary train had very low luminance. Both the headlights from the picker truck and the headlights from the logging truck would have provided minimal contrast between the train and the background, making it difficult for the driver of the logging truck to detect the train.
+The strips of reflectorized material on the back of each post had been selected and applied at the crossing through the initiative of the railway. Although they did not appear to have attracted the attention of the tractor-trailer driver, research indicates that the standardization of material and application generally improves a driver's likelihood of identifying a moving train at a passive crossing. That research also indicates that some recently available grades of reflectorized material may be seen from up to 600 m away. The benefits of reflectorized posts will be greater when they are standardized in terms of optimal material and configuration, and when they are implemented and recognized nationwide.
+Although reflectorized discs were on most of the rail cars, due to the age, size and condition of the discs, they likely offered little benefit to the drivers in detecting the presence of the train from a distance. The benefits of reflectorization to safety can best be met by industry if specifications are provided on criteria including the minimum reflective intensity and configuration. The 1999 Volpe report on freight car reflectorization demonstrated that currently available reflective material can provide reasonable brightness, durability and adhesiveness over a 10-year period, if routine maintenance is provided.
+Given that rail cars can come from all over North America, and given that Canadian regulations are not enforced on foreign cars, the presence of reflectors on any particular car on any railway is coincidental. While reflectorization regulations have not yet been introduced in the U.S., they are under consideration. The FRA's most recent analysis supports the conclusion that the declines in the cost of reflective material, in combination with better performance and lower maintenance costs, have created a situation in which the benefits of reflectorization now appear to exceed its cost.
+Although the generally accepted forward distance of headlight illumination is 110 m, the reality is that, if drivers were required to be able to detect very low-contrast objects, actual driving speeds would be restricted to approximately 32 km/h.Footnote 14 Thus, the concept of "not over driving one's headlights," as suggested in Alberta Infrastructure's Basic Licence Driver's Handbook, has not been adopted through legislated nighttime speed limits nor practiced by the Canadian public. With respect to railway crossings, this concept demonstrates the need for high-contrast material on rail cars to provide drivers with a reasonably discernable target. Also, the trade-off between vehicle speed and distance/time to react to an object is even greater under the environmental conditions that existed at the Highway 881 crossing on the night these accidents occurred, where, although it was not certain, there may have been accumulated dirt on the vehicle headlights.
+Traffic control and railway response
+The responding RCMP officer's decision to solicit the assistance of other motorists at the accident site to ensure safe traffic control is consistent with rural policing practices. The responding RCMP officer was satisfied that the lights from his car, parked on the west side of the crossing, and the stationary vehicles on the other side of the crossing, were providing adequate illumination so that approaching traffic would stop safely. A number of vehicles safely approached the crossing from both directions, confirming that the traffic control measures in place were having the desired effect. When vehicles began voluntarily detouring through Imperial Mills Road, this strengthened the notion that these measures were adequate; however, after the second collision, the RCMP officer quickly concluded that additional measures were required to ensure safety.
+The RCMP has no policies at the national level or within the province of Alberta that direct specific traffic control actions at collision scenes; however, the protection of an accident scene from further collisions is a primary focus in officer training. It is the view of the RCMP that, due to the variety of collisions that it investigates, it would be virtually impossible to have such written policy.
+The driver of the logging truck did not respond to the AWS and activity at the crossing by reducing his speed before the point where his headlights may have provided illumination of the occupied crossing. However, the visual cues that were available to him were significantly less compelling than the visual cues that were available to earlier westbound traffic. In particular, after the removal of the ditched tractor-trailer, there was only one remaining vehicle on the east side of the crossing. This vehicle was the picker truck, with its headlights and four-way flashers on. Since it was not uncommon for similar trucks to be pulled over on the shoulder of Highway 881, it is most probable that the driver of the logging truck did not identify the picker truck as a traffic control measure, and therefore did not significantly slow down.
+The extended occupancy of a highway crossing at night, particularly one protected only by passive means, is a potentially dangerous situation. Railway personnel considered that they were not responsible for the protection of traffic movements at the Highway 881 crossing because it was occupied by the train. This reflects the general operating philosophy of railways in Canada. The crew members considered it the responsibility of the RCMP officer.
+Although railway operating rules cover the requirement to notify proper authorities, and that employees join forces to protect the train, the existing railway procedures do not specifically address protecting the train and highway traffic in an emergency situation resulting from an accident. In rural areas under night conditions, it is conceivable that the train crew may be the only able-bodied people capable of setting up hazard warning devices or flagging until a traffic control authority arrives.
+Other issues relating to passive crossings
+Many of the engineering design guidelines developed before the 1990s used an aggregate of automobiles and trucks for the deceleration rate used in the calculation of SSDs. This can result in inappropriate SSDs for trucks, as an aggregate deceleration rate does not take into consideration the large variability of braking distances for trucks. Many of the more recent engineering guidelines do provide separate SSDs for automobiles and trucks, including the draft regulations proposed by Transport Canada with regard to railway crossings. Although the Transport Canada regulations apply only to federally regulated railways, it is important that all railways and road authorities be informed of the new SSDs for routes heavily used by trucks.
+The sight-line in the north-east quadrant of the crossing at Mile 138.07 would not meet the standards for trucks set out in Transport Canada's draft Road/Railway Grade Crossings - Technical Standard and Inspection, Testing, and Maintenance Requirements. The actual SSD was 149 m, compared to the recommended 210 m for trucks travelling up to 80 km/h. Further, the speed limit has now been increased on Highway 881 to 100 km/h, which corresponds to a recommended 330 m SSD for trucks in Transport Canada's draft Road/Railway Grade Crossings - Technical Standard and Inspection, Testing, and Maintenance Requirements and 200 m in Alberta Infrastructure's Highway Geometric Design Guide. The SSD standards contained in the Highway Geometric Design Guide adopted by Alberta in 1999 still do not differentiate between the varying stopping abilities of passenger vehicles and trucks and may lead to a lower level of safety at highway/railway interface points with passive warnings in that province.
+Another area for consideration is whether it is more reasonable that DSDs, rather than SSDs, be used for determining sight-lines for railway crossings, or possibly, for determining appropriate speed limits in the vicinity of a crossing. In establishing DSDs, Canadian highway designers clearly recognize the need for an additional margin of error under certain conditions. The determining factor for distance requirements is speed. While the current approach to crossings is to provide AWS, many of these signs do not provide an advisory speed. In essence, if a driver maintains the posted highway operating speed until he/she is within the SSD range, there may be insufficient time/distance to detect an approaching train and stop (assuming daylight driving conditions).
+The passive grade crossing system (sight distances, approach warnings, pavement markings, and crossbuck signs) has not significantly changed over the years. Bearing in mind the number of passive crossings that exist, and will continue to exist for years to come, situations such as occurred in this accident will recur unless significant action is taken. Changes must be made to the underlying design philosophy of railway/highway interface that takes into account the reality of driver expectations - that drivers do not expect a train. Some approaches to improve the situation through modifying driver expectations are: intelligent transportation systems technology (which can alert the driver to an approaching train) and standardization of traffic control devices associated with crossings (such as information notifying the motorist of the distance to the crossing, an appropriate speed at which to approach, and crossing reflectorization improvements). In addition to efforts to modify driver expectations, methods to enhance the conspicuity of trains, such as a standardized configuration (e.g. size and pattern) and minimum reflective intensity requirements of reflectorized decals, would enhance the overall safety of railway/highway interface.
+Fatigue
+There were insufficient data to determine whether driver fatigue played a role in either accident. Nonetheless, an analysis of the hours of duty for the logging truck driver indicated a schedule that was conducive to fatigue for the following reasons:
+
+the driver had worked 76.5 hours in the previous seven days (including one day of rest), and
+the driver's work schedule for the seven days preceding the accident required that he obtain sleep at a time that was out of synchronization with normal circadian rhythms.
+
+
+
+
+ 
+Findings
+
+Findings as to causes and contributing factors
+
+The visual cues available to the drivers in both collisions regarding the presence of the train on the crossing were not sufficiently compelling to modify their expectation of an unoccupied crossing in time to have averted the collision.
+The traffic control measures implemented after the first accident led to the controlled deceleration and stopping of a number of vehicles from both directions. However, the departure of all but the picker truck, on the east side of the crossing, just before the second collision, reduced the effectiveness of traffic control for westward vehicles.
+The rotating beacon on the police car, located on the west side of the crossing, was recognized by all motorists as a traffic control measure. However, the four-way flashers of the picker truck on the east side of the crossing may not have been similarly recognized.
+
+Findings as to risk
+
+The combination of low luminance of the train at night, the passive nature of the crossing, and the allowable speed for vehicles presented a very high risk that motorists would not detect a train in sufficient time to avert a collision.
+The effectiveness of a passively protected highway/railway interface is predicated upon the expectation that drivers will behave as if such crossings are occupied or about to be occupied by a train until confirmed otherwise. This appears to be an inaccurate premise.
+Canadian regulations on reflectorization of trains do not provide specifications on reflector design criteria, such as the minimum reflective intensity and configuration. Without these specifications, the regulations are ineffective.
+Existing Canadian regulations regarding reflectorization are not enforced on U.S. freight cars entering Canada. Given the large number of freight cars that are exchanged between the U.S. and Canada, the impact of Canadian regulations on safety is variable.
+The Canadian Rail Operating Rules do not address the issue of how to protect oncoming highway traffic in the event that the train occupies a crossing for more than five minutes (e.g. a crossing accident) thereby exposing the travelling public to an unsafe situation.
+Transport Canada's proposed regulations for railway crossings use separate stopping sight distances (SSDs) for automobiles and trucks, to take into account the highly variable nature of truck braking distances. However, these regulations will apply only to federally regulated railways, and not all road authorities have adopted a similar approach.
+Although it could not be determined whether driver fatigue played a role in the accident, the long hours of duty and schedule of the logging truck driver were conducive to fatigue, and thereby increased the risk that his performance could be adversely affected.
+
+Other findings
+
+A standard configuration and reflectorization scheme for passive crossing warning systems, such as that being proposed by Transport Canada, will likely increase the level of safety at passively protected crossings.
+Given the nature of the highway/railway interface, the use of decision stopping distances (DSDs) rather than SSDs for the determination of maximum vehicle approach speed would provide a greater safety margin for highway vehicles.
+
+
+
+
+ 
+Safety action
+
+On 03 January 2001, the Lakeland County made application to the Alberta Ministry of Transportation Infrastructure Branch (Alberta Infrastructure) for installation of automatic protection devices at these locations. This proposal was reviewed, and on the basis of train and vehicular traffic volumes, it was decided that this location did not warrant the installation of automatic protection devices at this time.
+Safety concerns
+Rolling stock reflectorization
+Studies conducted in the U.S. by the Federal Railroad Administration (FRA) to assess the impact of age and dirt on the reflective intensity of the engineering-grade retroreflective material indicated that the average reflectivity was reduced to 5 per cent of its initial value after two years of service. A recent FRA cost/benefit analysis supports the conclusion that the declines in the cost of reflective material, in combination with better performance and lower maintenance costs, have created a situation in which the benefits of reflectorization now appear to exceed its cost.
+TSB statistics indicate that there were a total of 209 nighttime accidents at passively protected crossings under federal regulation between 1996 and 2000, resulting in 25 fatalities and 27 injuries. The TSB is concerned that many rail cars are operating over passively protected crossings at night with inadequate reflectorization to help alert motorists to their presence. The TSB believes that the hazard could be reduced substantially with the application and maintenance of modern reflective materials to all rail cars.
+Highway design considerations
+There are a number of engineering guides available to help road authorities determine safe vehicle speed and location for installing traffic devices such as signs. The Transportation Association of Canada (TAC) publishes the Manual of Geometric Design Standards for Canadian Roads, Alberta Infrastructure publishes a Highway Geometric Design Guide and Transport Canada has a draft Road/Railway Grade Crossings - Technical Standard and Inspection, Testing, and Maintenance Requirements. Transport Canada and the TAC recommend a stopping sight distance (SSD) of 140 m for automobiles travelling at 80 km/h, and a SSD of 210 m for trucks travelling at 80 km/h. The Alberta Infrastructure guide suggests a SSD of 140 m for both automobiles and trucks. In addition, the TAC recommends that designers should use decision sight distances (DSDs) whenever information may be perceived incorrectly, decisions are required or where control actions are required. In this case, the recommended SSD for automobiles would be 225 m, and for trucks, 405 m.
+The Board is concerned that the 1999 Highway Geometric Design Guide used by the province of Alberta for SSDs does not differentiate between automobile and truck SSDs.
+This report concludes the Transportation Safety Board's investigation into this occurrence. Consequently, the Board authorized the release of this report on 04 February 2002.
+
+
+
+ 
+Appendices
+
+Appendix A - Significant findings based on freight car reflectorization research
+Following is a detailed summary of the significant findings resulting from the freight car reflectorization research program at the Volpe National Transportation Systems Center.
+
+A uniform recognizable pattern of reflective markings can be applied to most freight car types, with a few exceptions.
+Based on human factors studies, a reflectorized freight car is significantly more detectable than a non-reflectorized freight car.
+Also, based on human factors studies, a uniform pattern of reflectorized material can facilitate recognition of the hazard as a freight car. The pattern should indicate the shape of the car, employ the colours red and white, and be sufficiently distinctive so as not to be confused with large truck markings.
+A minimum favourable placement location of reflectors is 42 inches above the top of rail.
+The large reflectors, measuring 4 inches by 36 inches, maintained, on average, acceptable reflective performance over the entire testing period (2 years) on all freight car types. Placement of the reflector under the sill of the freight car has been found to be detrimental to the performance of the reflector. Due to their smaller size, position below sill level, and location near loading points, the smaller white reflectors did not perform as well under the harsh railroad operating conditions. Mid-car locations on many freight car types provide severe operational conditions; therefore, this location should not be considered in any freight car reflectorization rule-making process.
+The performance of the reflectors was not observed to be significantly affected by natural environmental factors. Mechanical washing of the reflectors resulted in their performance rebounding significantly to levels near original values. Periodic washing of the reflectors mounted on freight cars can extend their performance to the limits of life expectancy. The recently developed prismatic materials' durability and adhesiveness are likely to perform above threshold levels for up to 10 years with routine maintenance.
+Based on very limited accident experience, freight car reflectorization was observed to be potentially effective in reducing accidents.
+The demonstration test pattern's original cost of $31.24 has now been reduced by 40 per cent (based on information stated by the manufacturer) for a cost of material per car of approximately $18.75. Additionally, the 1996 Association of American Railroads (AAR) labour rate is approximately $20.05 per hour. Using the estimates for reflectorizing an older car during the normal maintenance program that may need heavy cleaning (at the 1996 AAR labour rate), and reduced material costs, the resultant maximum material cost per car using the tested pattern would be approximately $38.80. Heavy cleaning of the reflectors would require two persons for 30 minutes to complete the process approximately every 12 to 18 months, resulting in a cost of approximately $20.05 per event. The manufacturer specifies this prismatic material's useful life to be 10 years. Therefore, maximum projected total costs of the material and maintenance for a 10-year period would be $219.25 per car (based on lower material costs, heavy cleaning, two-person annual maintenance, at the 1996 AAR labour rate).
+
+Appendix B - Glossary
+
+AADT
+average annual daily traffic
+AAR
+Association of American Railroads
+Alberta Infrastructure
+Alberta Ministry of Transportation Infrastructure Branch
+ALPAC
+Alberta-Pacific Forest Industries Inc.
+ANR
+Athabasca Northern Railway Ltd.
+AWS
+advance warning sign
+BTC
+Board of Transport Commissioners for Canada
+CIC
+Coordination and Information Centre
+CN
+Canadian National
+CPR
+Canadian Pacific Railway
+CROR
+Canadian Rail Operating Rules
+CWR
+Central Western Railway
+DSD
+decision sight distance
+EMS
+emergency medical services
+FRA
+Federal Railroad Administration
+GPS
+Global Positioning System
+km
+kilometre
+km/h
+kilometre per hour
+m
+metre
+mph
+mile per hour
+MST
+mountain standard time
+NTSB
+National Transportation Safety Board
+OCS
+Occupancy Control System
+RCMP
+Royal Canadian Mounted Police
+RTC
+rail traffic controller
+SSD
+stopping sight distance
+TSB
+Transportation Safety Board of Canada
+TAC
+Transportation Association of Canada
+U.S.
+United States
+UTC
+Coordinated Universal Time
+Volpe
+Volpe National Transportation Systems Center
+
+
+Footnotes
+
+Footnote 1
+
+All times are MST (Coordinated Universal Time [UTC] minus seven hours) unless otherwise indicated.
+Return to footnote 1 referrer
+
+Footnote 2
+
+As of 08 February 2001, ANR received authority from the provincial government to operate a shortline railway, replacing the previous agreement with CWR.
+Return to footnote 2 referrer
+
+Footnote 3
+
+National Transportation Safety Board (1998). Safety at Passive Grade Crossings. Volume 1: Analysis. Safety Study NTSB/SS-98/02. Washington, DC. p. 78.
+Return to footnote 3 referrer
+
+Footnote 4
+
+National Transportation Safety Board (1998). Safety at Passive Grade Crossings. Volume 1: Analysis. Safety Study NTSB/SS-98/02. Washington, DC.
+Return to footnote 4 referrer
+
+Footnote 5
+
+National Transportation Safety Board (1998). Safety at Passive Grade Crossings. Volume 1: Analysis. Safety Study NTSB/SS-98/02. Washington, DC. p. 48.
+Return to footnote 5 referrer
+
+Footnote 6
+
+M.R. Endsley (1994a). "Situational awareness in dynamic human decision making measurement." In Situational Awareness in Complex Systems, Proceedings of a CAHFA Conference, February, 1993. Fl: Embry-Riddle Aeronautical University Press. p. 79-97.
+Return to footnote 6 referrer
+
+Footnote 7
+
+Transport Canada (1997). Study of Adding Reflective Materials to Crossing Signs and Posts. TP 13128E.
+Return to footnote 7 referrer
+
+Footnote 8
+
+A retroreflector is a device that reflects light so that the path of the rays is parallel to those of the incident rays.
+Return to footnote 8 referrer
+
+Footnote 9
+
+James L. Poage and John B. Hopkins (1983). "Measurements and Analysis of Degradation of Freight Car Reflectors in Revenue Service." In Transportation Research Record. 904:67-74.
+                    James L. Poage, James C. Pomfret and John B. Hopkins (1983). Freight Car Reflectorization. Transportation Systems Center, Research and Special Programs Administration, U.S. Department of Transportation, Cambridge, MA.
+          Report No. FRA-RRS-83-1.
+Return to footnote 9 referrer
+
+Footnote 10
+
+Safety of Highway-Railroad Grade Crossings (1999). Freight Car Reflectorization. DOT/FRA/ORD-98/11.
+Return to footnote 10 referrer
+
+Footnote 11
+
+P.L. Olson (1996). Forensic Aspects of Driver Perception and Response. Lawyers & Judges Publishing Company, Inc., Tuscon, AZ. p. 121.
+Return to footnote 11 referrer
+
+Footnote 12
+
+The distance at which a target is seen can be reduced by more than half. P.L. Olson (1996). Forensic Aspects of Driver Perception and Response. Lawyers & Judges Publishing Company, Inc., Tuscon, AZ. p. 115.
+Return to footnote 12 referrer
+
+Footnote 13
+
+The stated purpose of the guide was to promote uniformity for highway design in Alberta, not a legal standard.
+Return to footnote 13 referrer
+
+Footnote114
+
+P.L. Olson (1996). Forensic Aspects of Driver Perception and Response. Lawyers & Judges Publishing Company, Inc., Tuscon, AZ. p. 95.
+Return to footnote 14 referrer
+
+
+
+
+
+
+
+
+
+
+
+
+
+['crossing', 'accidentsathabasca', 'northern', 'railway', 'ltdfreight', 'train', 'n', 'mile', 'waterway', 'subdivisionimperial', 'mill', 'alberta', 'december', 'transportation', 'safety', 'board', 'canada', 'tsb', 'investigated', 'occurrence', 'purpose', 'advancing', 'transportation', 'safety', 'function', 'board', 'assign', 'fault', 'determine', 'civil', 'criminal', 'liability', 'report', 'created', 'use', 'context', 'legal', 'disciplinary', 'proceeding', 'see', 'ownership', 'use', 'content', 'masculine', 'pronoun', 'position', 'title', 'may', 'used', 'signify', 'gender', 'comply', 'canadian', 'transportation', 'accident', 'investigation', 'safety', 'board', 'act', 'sc', 'c', 'download', 'investigation', 'report', 'pdf', 'table', 'content', 'summary', 'december', 'approximately', 'mountain', 'standard', 'time', 'athabasca', 'northern', 'railway', 'ltd', 'freight', 'train', 'n', 'travelling', 'southward', 'secondary', 'highway', 'crossing', 'mile', 'waterway', 'subdivision', 'st', 'car', 'struck', 'semitrailer', 'truck', 'result', 'collision', 'train', 'brake', 'went', 'emergency', 'stopping', 'train', 'rd', 'car', 'blocking', 'crossing', 'driver', 'truck', 'injured', 'approximately', 'train', 'still', 'occupying', 'crossing', 'truck', 'partially', 'loaded', 'log', 'collided', 'standing', 'freight', 'train', 'driver', 'truck', 'fatally', 'injured', 'le', 'prsent', 'rapport', 'est', 'galement', 'disponible', 'en', 'franais', 'factual', 'information', 'occurrence', 'collision', 'n', 'december', 'approximately', 'mountain', 'standard', 'time', 'mstfootnote', 'athabasca', 'northern', 'railway', 'ltd', 'anr', 'freight', 'train', 'n', 'travelling', 'southward', 'secondary', 'highway', 'crossing', 'mile', 'waterway', 'subdivision', 'experienced', 'traininitiated', 'emergency', 'brake', 'application', 'locomotive', 'engineer', 'immediately', 'reported', 'incident', 'royal', 'canadian', 'mounted', 'police', 'rcmp', 'rail', 'traffic', 'controller', 'rtc', 'responding', 'rcmp', 'officer', 'arranged', 'notification', 'emergency', 'medical', 'service', 'em', 'fire', 'department', 'lac', 'la', 'biche', 'alberta', 'placed', 'second', 'officer', 'standby', 'pending', 'assessment', 'situation', 'conductor', 'train', 'determined', 'st', 'car', 'empty', 'box', 'car', 'struck', 'westbound', 'semitrailer', 'highway', 'result', 'collision', 'train', 'disabled', 'body', 'box', 'car', 'lifted', 'wheel', 'assembly', 'one', 'end', 'car', 'uncoupled', 'trailing', 'gondola', 'car', 'damaged', 'box', 'car', 'came', 'stop', 'approximately', 'south', 'crossing', 'trailing', 'portion', 'train', 'blocking', 'crossing', 'separation', 'st', 'car', 'nd', 'car', 'westbound', 'semitrailer', 'steered', 'southeast', 'ditch', 'attempt', 'avert', 'collision', 'train', 'result', 'truck', 'spun', 'degree', 'rear', 'empty', 'trailer', 'struck', 'train', 'driver', 'truck', 'injured', 'assistance', 'offered', 'number', 'highway', 'driver', 'arrived', 'scene', 'accident', 'approaching', 'vehicle', 'stopped', 'east', 'side', 'crossing', 'rcmp', 'officer', 'arrived', 'scene', 'west', 'approximately', 'followed', 'shortly', 'em', 'fire', 'department', 'crew', 'lac', 'la', 'biche', 'rcmp', 'patrol', 'car', 'stationed', 'approximately', 'west', 'crossing', 'eastbound', 'lane', 'flashing', 'beacon', 'light', 'operating', 'headlight', 'bright', 'facing', 'train', 'upon', 'determining', 'highway', 'impassable', 'motorist', 'began', 'using', 'imperial', 'mill', 'road', 'located', 'approximately', 'east', 'blocked', 'crossing', 'reconnected', 'highway', 'approximately', 'km', 'west', 'crossing', 'ambulance', 'fire', 'crew', 'released', 'site', 'determined', 'injury', 'determining', 'vehicle', 'stopping', 'safely', 'rcmp', 'officer', 'site', 'elected', 'require', 'additional', 'staff', 'attend', 'scene', 'traffic', 'control', 'purpose', 'considered', 'police', 'car', 'parked', 'west', 'side', 'crossing', 'several', 'truck', 'hazard', 'light', 'beacon', 'flashing', 'parked', 'east', 'side', 'crossing', 'provided', 'adequate', 'warning', 'oncoming', 'traffic', 'conductor', 'assessed', 'damage', 'st', 'car', 'determined', 'crane', 'would', 'required', 'set', 'car', 'body', 'back', 'truck', 'allow', 'coupling', 'nd', 'car', 'clear', 'crossing', 'indicated', 'rcmp', 'officer', 'task', 'would', 'take', 'two', 'three', 'hour', 'conversation', 'took', 'place', 'potential', 'course', 'action', 'discussed', 'rcmp', 'officer', 'railway', 'considered', 'occurrence', 'highway', 'traffic', 'matter', 'decided', 'pursue', 'investigation', 'damaged', 'rail', 'car', 'moved', 'crossing', 'mile', 'imperial', 'mill', 'road', 'repair', 'could', 'made', 'anr', 'personnel', 'protected', 'site', 'flagging', 'highway', 'traffic', 'crossing', 'repair', 'taking', 'place', 'damaged', 'truck', 'trailer', 'removed', 'highway', 'ditch', 'approximately', 'two', 'vehicle', 'remained', 'highway', 'crossing', 'west', 'side', 'rcmp', 'vehicle', 'headlight', 'flashing', 'beacon', 'east', 'side', 'picker', 'truck', 'tractortrailer', 'unit', 'mounted', 'crane', 'headlight', 'fourway', 'flasher', 'train', 'still', 'occupying', 'crossing', 'collision', 'n', 'approximately', 'westbound', 'truck', 'partially', 'loaded', 'log', 'approached', 'crossing', 'truck', 'driver', 'steered', 'around', 'picker', 'truck', 'parked', 'shoulder', 'westbound', 'lane', 'drove', 'standing', 'train', 'result', 'collision', 'driver', 'pinned', 'cab', 'cab', 'crushed', 'rail', 'car', 'trailing', 'load', 'log', 'log', 'catapulted', 'train', 'part', 'truck', 'came', 'rest', 'protruding', 'underneath', 'beyond', 'rail', 'car', 'west', 'side', 'crossing', 'time', 'second', 'collision', 'driver', 'tractortrailer', 'involved', 'first', 'collision', 'rcmp', 'officer', 'finished', 'discussing', 'particular', 'first', 'collision', 'returning', 'east', 'side', 'train', 'process', 'crossing', 'train', 'west', 'east', 'first', 'coupling', 'north', 'crossing', 'observed', 'approaching', 'truck', 'approaching', 'truck', 'manoeuvred', 'around', 'picker', 'truck', 'struck', 'stationary', 'train', 'immediately', 'logging', 'truck', 'struck', 'train', 'rcmp', 'officer', 'requested', 'em', 'fire', 'department', 'police', 'assistance', 'lac', 'la', 'biche', 'also', 'contacted', 'supervisor', 'duty', 'apprise', 'situation', 'obtain', 'assistance', 'em', 'response', 'team', 'fire', 'department', 'additional', 'rcmp', 'support', 'arrived', 'crossing', 'approximately', 'december', 'fire', 'department', 'set', 'flare', 'east', 'side', 'provide', 'protection', 'truck', 'driver', 'extricated', 'wreckage', 'traffic', 'detoured', 'imperial', 'mill', 'road', 'log', 'removed', 'free', 'driver', 'em', 'provided', 'medical', 'assistance', 'driver', 'extricated', 'truck', 'cab', 'approximately', 'transported', 'lac', 'la', 'biche', 'hospital', 'survive', 'injury', 'temporary', 'repair', 'train', 'completed', 'approximately', 'driver', 'extricated', 'wreckage', 'removed', 'front', 'portion', 'train', 'moved', 'back', 'couple', 'onto', 'rear', 'portion', 'train', 'highway', 'crossing', 'cleared', 'weather', 'temperature', 'minus', 'degree', 'celsius', 'km', 'wind', 'north', 'visibility', 'clear', 'night', 'dark', 'moonlight', 'road', 'surface', 'slippery', 'covered', 'snow', 'ice', 'method', 'train', 'control', 'train', 'movement', 'waterway', 'subdivision', 'controlled', 'occupancy', 'control', 'system', 'ocs', 'authorized', 'canadian', 'rail', 'operating', 'rule', 'cror', 'supervised', 'rtc', 'located', 'north', 'bay', 'ontario', 'service', 'provided', 'rail', 'america', 'inc', 'train', 'operation', 'anr', 'operated', 'train', 'northeastern', 'alberta', 'lac', 'la', 'biche', 'waterway', 'subdivision', 'operating', 'authority', 'central', 'western', 'railway', 'cwr', 'previous', 'operator', 'rail', 'linefootnote', 'within', 'province', 'alberta', 'anr', 'regulated', 'alberta', 'ministry', 'transportation', 'infrastructure', 'branch', 'alberta', 'infrastructure', 'alberta', 'infrastructure', 'policy', 'required', 'railway', 'accident', 'incident', 'immediately', 'reported', 'provincial', 'government', 'coordination', 'information', 'centre', 'cic', 'train', 'crew', 'member', 'familiar', 'requirement', 'cic', 'number', 'readily', 'available', 'although', 'notify', 'cwr', 'cwr', 'reported', 'accident', 'cic', 'december', 'authorized', 'maximum', 'track', 'speed', 'waterway', 'subdivision', 'mph', 'train', 'operates', 'six', 'day', 'per', 'week', 'travelling', 'northward', 'fort', 'mcmurray', 'alberta', 'one', 'day', 'returning', 'next', 'day', 'friday', 'locomotive', 'maintenance', 'athabasca', 'northern', 'railway', 'ltd', 'train', 'n', 'train', 'consisted', 'locomotive', 'coal', 'hopper', 'car', 'loaded', 'coke', 'empty', 'box', 'car', 'approximately', 'foot', 'long', 'weighed', 'ton', 'recorded', 'speed', 'train', 'time', 'accident', 'approximately', 'mph', 'box', 'car', 'cn', 'sustained', 'damage', 'side', 'car', 'body', 'impact', 'trailer', 'first', 'collision', 'gondola', 'coal', 'car', 'cn', 'sustained', 'minor', 'damage', 'impact', 'logging', 'truck', 'hopper', 'car', 'painted', 'black', 'white', 'identification', 'letter', 'white', 'owner', 'emblem', 'fourinchdiameter', 'reflectorized', 'disc', 'hopper', 'car', 'car', 'struck', 'logging', 'truck', 'two', 'marker', 'leading', 'end', 'car', 'would', 'view', 'truck', 'driver', 'painted', 'black', 'paint', 'marker', 'installed', 'manufacture', 'date', 'car', 'subjective', 'evaluation', 'disc', 'indicated', 'accumulation', 'significant', 'amount', 'dirt', 'limited', 'visibility', 'train', 'crew', 'member', 'consisted', 'conductor', 'locomotive', 'engineer', 'located', 'lead', 'locomotive', 'qualified', 'respective', 'position', 'conductor', 'also', 'qualified', 'carman', 'started', 'work', 'december', 'duty', 'hour', 'first', 'accident', 'occurred', 'tractortrailer', 'vehicle', 'involved', 'first', 'collision', 'kenworth', 'highboyoilfield', 'slope', 'trailer', 'returning', 'lac', 'la', 'biche', 'unloading', 'slop', 'tank', 'conklin', 'alberta', 'driver', 'log', 'indicated', 'duty', 'previous', 'two', 'day', 'commenced', 'duty', 'noon', 'december', 'truck', 'equipped', 'event', 'recorder', 'driver', 'familiar', 'general', 'area', 'driven', 'section', 'road', 'number', 'year', 'travelling', 'kmh', 'noticed', 'advance', 'warning', 'sign', 'aws', 'railway', 'crossing', 'slowed', 'approximately', 'kmh', 'avoid', 'damage', 'truck', 'event', 'crossing', 'uneven', 'estimated', 'crossing', 'noticed', 'train', 'wheel', 'going', 'crossing', 'immediately', 'tried', 'stop', 'appeared', 'though', 'truck', 'would', 'stop', 'time', 'avert', 'collision', 'train', 'steered', 'truck', 'ditch', 'approach', 'crossing', 'bothered', 'glare', 'mirror', 'reflection', 'headlight', 'truck', 'following', 'logging', 'truck', 'vehicle', 'involved', 'second', 'collision', 'freightliner', 'tandem', 'truck', 'tandem', 'trailer', 'btrain', 'en', 'route', 'boyle', 'alberta', 'partial', 'load', 'log', 'first', 'trailer', 'behind', 'cab', 'truck', 'owned', 'local', 'trucking', 'company', 'contract', 'alberta', 'pacific', 'forest', 'industry', 'inc', 'alpac', 'driver', 'employed', 'company', 'three', 'year', 'tractor', 'logging', 'truck', 'destroyed', 'driver', 'electronic', 'log', 'indicated', 'duty', 'december', 'date', 'driver', 'following', 'schedule', 'december', 'commenced', 'duty', 'worked', 'hour', 'duty', 'hour', 'recommenced', 'duty', 'worked', 'december', 'duty', 'hour', 'recommenced', 'duty', 'working', 'time', 'accident', 'average', 'duty', 'day', 'since', 'december', 'approximately', 'hour', 'including', 'one', 'day', 'duty', 'driver', 'worked', 'hour', 'seven', 'day', 'alberta', 'provincial', 'legislation', 'permit', 'truck', 'driver', 'cross', 'provincial', 'boundary', 'duty', 'hour', 'per', 'day', 'maximum', 'driving', 'hour', 'weekly', 'monthly', 'restriction', 'part', 'alpac', 'contract', 'agreement', 'logging', 'truck', 'required', 'install', 'event', 'recorder', 'monitored', 'number', 'truckrelated', 'performance', 'characteristic', 'location', 'truck', 'global', 'positioning', 'system', 'gps', 'status', 'driver', 'driving', 'duty', 'duty', 'alpac', 'monitored', 'trip', 'safety', 'violation', 'made', 'available', 'output', 'trip', 'contracting', 'company', 'scrutiny', 'road', 'safety', 'vehicle', 'performance', 'variable', 'recorded', 'information', 'indicated', 'truck', 'travelling', 'approximately', 'kmh', 'approaching', 'railway', 'crossing', 'reduced', 'speed', 'approximately', 'kmh', 'approximately', 'second', 'impact', 'brake', 'application', 'made', 'approximately', 'four', 'second', 'collision', 'recorded', 'speed', 'impact', 'approximately', 'kmh', 'uncommon', 'see', 'truck', 'activated', 'flasher', 'andor', 'beacon', 'pulled', 'onto', 'shoulder', 'highway', 'case', 'driver', 'truck', 'taking', 'rest', 'break', 'highway', 'traffic', 'control', 'hazard', 'warning', 'device', 'placed', 'highway', 'warn', 'oncoming', 'traffic', 'crossing', 'blocked', 'driver', 'motor', 'vehicle', 'train', 'crew', 'required', 'regulation', 'royal', 'canadian', 'mounted', 'police', 'rcmp', 'rcmp', 'policy', 'national', 'level', 'within', 'province', 'alberta', 'directs', 'specific', 'traffic', 'control', 'action', 'collision', 'site', 'aspect', 'rcmp', 'procedure', 'covered', 'collision', 'investigation', 'section', 'rcmp', 'training', 'training', 'academy', 'regina', 'saskatchewan', 'followed', 'inservice', 'training', 'rcmp', 'accident', 'investigation', 'course', 'training', 'module', 'identifies', 'primary', 'task', 'police', 'officer', 'arriving', 'accident', 'scene', 'protection', 'scene', 'collision', 'police', 'officer', 'must', 'conduct', 'risk', 'assessment', 'take', 'consideration', 'many', 'factor', 'location', 'severity', 'collision', 'traffic', 'roadweather', 'condition', 'visibility', 'potential', 'danger', 'risk', 'assessment', 'conducted', 'police', 'officer', 'tasked', 'taking', 'action', 'heshe', 'deems', 'appropriate', 'circumstance', 'action', 'could', 'include', 'use', 'emergency', 'equipment', 'assist', 'traffic', 'control', 'requirement', 'obtain', 'assistance', 'officer', 'agency', 'training', 'module', 'also', 'cover', 'aspect', 'use', 'detour', 'handling', 'hazardous', 'material', 'although', 'specific', 'policy', 'direct', 'police', 'officer', 'rcmp', 'training', 'module', 'require', 'risk', 'assessment', 'appropriate', 'action', 'based', 'assessment', 'two', 'officer', 'duty', 'time', 'accident', 'officer', 'deployed', 'site', 'charge', 'lac', 'la', 'biche', 'detachment', 'night', 'accident', 'understood', 'rcmp', 'policy', 'required', 'control', 'traffic', 'scene', 'accident', 'ensure', 'public', 'safety', 'protected', 'use', 'hazard', 'warning', 'device', 'flagging', 'whatever', 'mean', 'available', 'interpreted', 'policy', 'give', 'full', 'latitude', 'decide', 'many', 'officer', 'would', 'attend', 'site', 'mean', 'traffic', 'control', 'would', 'accomplished', 'given', 'limited', 'resource', 'available', 'elected', 'attend', 'accident', 'scene', 'alone', 'assess', 'situation', 'requesting', 'assistance', 'officer', 'time', 'accident', 'officer', 'responding', 'another', 'highway', 'trafficrelated', 'occurrence', 'throughout', 'evening', 'required', 'attend', 'number', 'urgent', 'issue', 'offduty', 'officer', 'potentially', 'available', 'within', 'detachment', 'however', 'contact', 'offduty', 'supervisor', 'would', 'necessary', 'elicit', 'assistance', 'lakeland', 'county', 'provided', 'rcmp', 'detachment', 'emergency', 'call', 'number', 'case', 'assistance', 'required', 'however', 'responding', 'officer', 'aware', 'resource', 'lakeland', 'county', 'disposal', 'immediately', 'second', 'accident', 'rcmp', 'officer', 'contacted', 'supervisor', 'additional', 'assistance', 'arranged', 'traffic', 'control', 'emergency', 'response', 'relieved', 'second', 'officer', 'duty', 'departed', 'scene', 'lakeland', 'county', 'contacted', 'assist', 'traffic', 'control', 'accident', 'site', 'train', 'crew', 'safe', 'working', 'practice', 'railway', 'train', 'crew', 'contained', 'cror', 'railway', 'general', 'operating', 'instruction', 'anr', 'adopted', 'federal', 'requirement', 'contained', 'cror', 'part', 'operating', 'agreement', 'general', 'railway', 'operating', 'philosophy', 'dictate', 'advance', 'warning', 'intent', 'train', 'occupy', 'public', 'crossing', 'provided', 'form', 'sounding', 'locomotive', 'horn', 'bell', 'well', 'illumination', 'headlight', 'ditch', 'light', 'cror', 'rule', 'public', 'crossing', 'grade', 'paragraph', 'c', 'state', 'public', 'crossing', 'occupied', 'train', 'part', 'train', 'engine', 'may', 'allowed', 'stand', 'part', 'public', 'crossing', 'grade', 'longer', 'period', 'five', 'minute', 'vehicular', 'pedestrian', 'traffic', 'requires', 'passage', 'switching', 'operation', 'crossing', 'must', 'obstruct', 'vehicular', 'pedestrian', 'traffic', 'longer', 'period', 'five', 'minute', 'time', 'emergency', 'vehicle', 'require', 'passage', 'employee', 'must', 'cooperate', 'clear', 'public', 'crossing', 'grade', 'private', 'crossing', 'quickly', 'possible', 'specific', 'requirement', 'railway', 'employee', 'protect', 'motor', 'vehicle', 'coming', 'contact', 'train', 'fully', 'occupied', 'public', 'crossing', 'become', 'disabled', 'however', 'cror', 'rule', 'protection', 'extraordinary', 'condition', 'paragraph', 'state', 'train', 'engine', 'must', 'fully', 'protected', 'known', 'suspected', 'condition', 'may', 'interfere', 'safe', 'passage', 'cror', 'general', 'rule', 'requires', 'every', 'employee', 'service', 'connected', 'movement', 'train', 'engine', 'shall', 'communicate', 'quickest', 'available', 'mean', 'proper', 'authority', 'condition', 'may', 'affect', 'safe', 'movement', 'train', 'engine', 'alert', 'company', 'interest', 'join', 'force', 'protect', 'obtain', 'assistance', 'promptly', 'required', 'control', 'harmful', 'dangerous', 'condition', 'train', 'crew', 'member', 'take', 'part', 'providing', 'traffic', 'control', 'highway', 'public', 'crossing', 'however', 'provided', 'traffic', 'control', 'public', 'crossing', 'mile', 'damaged', 'boxcar', 'repaired', 'consistent', 'standard', 'railway', 'operating', 'philosophy', 'anr', 'crew', 'responsibility', 'protect', 'highway', 'traffic', 'train', 'fully', 'occupied', 'highway', 'crossing', 'secondary', 'highway', 'constructed', 'late', 'alternate', 'road', 'alberta', 'highway', 'edmonton', 'fort', 'mcmurray', 'road', 'serf', 'community', 'lac', 'la', 'biche', 'fort', 'mcmurray', 'portion', 'highway', 'junction', 'secondary', 'highway', 'heart', 'lake', 'paved', 'spring', 'six', 'public', 'crossing', 'highway', 'protected', 'standard', 'reflectorized', 'crossing', 'sign', 'three', 'crossing', 'located', 'mile', 'mile', 'mile', 'paved', 'portion', 'highway', 'remaining', 'three', 'crossing', 'located', 'gravelled', 'portion', 'highway', 'crossing', 'jurisdiction', 'lakeland', 'county', 'crossing', 'mile', 'protected', 'standard', 'reflectorized', 'crossing', 'sign', 'installed', 'red', 'retroreflective', 'strip', 'inch', 'wide', 'foot', 'inch', 'high', 'installed', 'back', 'crossing', 'sign', 'post', 'aws', 'direction', 'truck', 'travelling', 'located', 'approximately', 'east', 'crossing', 'addition', 'warning', 'sign', 'stating', 'warning', 'railway', 'track', 'use', 'located', 'east', 'crossing', 'white', 'crossing', 'marking', 'painted', 'pavement', 'immediately', 'preceding', 'crossing', 'aws', 'location', 'direction', 'obscured', 'snow', 'ice', 'nighttime', 'illumination', 'crossing', 'sightline', 'distance', 'westward', 'vehicle', 'located', 'crossing', 'provided', 'view', 'approaching', 'southward', 'train', 'crossing', 'view', 'standard', 'reflectorized', 'crossing', 'sign', 'crossbucks', 'partially', 'blocked', 'position', 'picker', 'truck', 'angle', 'crossing', 'intersected', 'roadway', 'degree', 'track', 'highway', 'tangent', 'roadway', 'approach', 'grade', 'crossing', 'level', 'see', 'figure', 'figure', 'sketch', 'showing', 'crossing', 'layout', 'mile', 'image', 'posted', 'highway', 'speed', 'kmh', 'february', 'bylaw', 'increase', 'speed', 'kmh', 'approved', 'average', 'annual', 'daily', 'traffic', 'aadt', 'highway', 'based', 'survey', 'conducted', 'alberta', 'infrastructure', 'projected', 'vehicle', 'per', 'day', 'however', 'noted', 'vehicular', 'traffic', 'varies', 'season', 'concentration', 'heavy', 'truck', 'hauling', 'log', 'oil', 'field', 'equipment', 'winter', 'month', 'train', 'frequency', 'slightly', 'less', 'one', 'train', 'per', 'day', 'train', 'operation', 'rail', 'line', 'intermittent', 'anr', 'purchased', 'rail', 'line', 'august', 'anr', 'commenced', 'operating', 'rail', 'line', 'company', 'advertised', 'local', 'newspaper', 'inform', 'public', 'railway', 'would', 'operation', 'anr', 'also', 'held', 'meeting', 'alpac', 'discus', 'safety', 'issue', 'surrounding', 'railway', 'crossing', 'resulted', 'alpac', 'issuing', 'safety', 'information', 'truck', 'contractor', 'well', 'safety', 'notice', 'posted', 'alpacs', 'truck', 'weighin', 'station', 'provincial', 'federal', 'regulatory', 'regime', 'responsibility', 'regulation', 'overview', 'provincial', 'railway', 'operation', 'lie', 'provincial', 'government', 'reference', 'transport', 'canada', 'regulation', 'would', 'apply', 'railway', 'operating', 'province', 'alberta', 'authority', 'however', 'transport', 'canada', 'collaborates', 'many', 'province', 'including', 'alberta', 'information', 'regarding', 'direction', 'operation', 'lifesaver', 'federalprovincial', 'regulatory', 'regime', 'harmonization', 'project', 'purpose', 'federalprovincial', 'regulatory', 'regime', 'harmonization', 'project', 'ascertain', 'contrast', 'compare', 'federal', 'provincial', 'rail', 'safety', 'regulatory', 'regime', 'purpose', 'identifying', 'gap', 'opportunity', 'greater', 'harmonization', 'jurisdiction', 'frequency', 'nighttime', 'accident', 'passive', 'crossing', 'approximately', 'passively', 'protected', 'public', 'crossing', 'federal', 'jurisdiction', 'canada', 'total', 'number', 'occurrence', 'passive', 'crossing', 'steadily', 'decreased', 'attributed', 'largely', 'decrease', 'daytime', 'occurrence', 'number', 'nighttime', 'occurrence', 'remained', 'relatively', 'constant', 'data', 'also', 'indicate', 'comparison', 'daytime', 'occurrence', 'nighttime', 'occurrence', 'involved', 'larger', 'proportion', 'train', 'struck', 'vehicle', 'daytime', 'struck', 'vehicle', 'struck', 'vehicle', 'total', 'nighttime', 'struck', 'vehicle', 'struck', 'vehicle', 'total', 'total', 'struck', 'vehicle', 'struck', 'vehicle', 'total', 'fatal', 'accident', 'accident', 'injury', 'driver', 'expectation', 'road', 'design', 'road', 'authority', 'attempt', 'establish', 'consistency', 'road', 'design', 'signing', 'signalling', 'practice', 'mean', 'develop', 'driver', 'expectation', 'turn', 'permit', 'smoother', 'safer', 'traffic', 'flow', 'u', 'research', 'indicates', 'inconsistent', 'understanding', 'driver', 'responsibility', 'approaching', 'passive', 'crossingfootnote', 'particular', 'asked', 'appropriate', 'action', 'encountering', 'crossbuck', 'driver', 'thought', 'must', 'yield', 'others', 'thought', 'must', 'stop', 'others', 'thought', 'take', 'action', 'accident', 'investigation', 'conducted', 'u', 'national', 'transportation', 'safety', 'board', 'ntsb', 'shown', 'many', 'driver', 'expect', 'see', 'train', 'therefore', 'actively', 'look', 'train', 'approach', 'crossingfootnote', 'finding', 'supported', 'model', 'human', 'performance', 'showing', 'expectancy', 'developed', 'time', 'personal', 'experience', 'thus', 'time', 'driver', 'encounter', 'crossing', 'train', 'sight', 'reinforces', 'hisher', 'expectation', 'train', 'present', 'ntsb', 'research', 'also', 'indicates', 'driver', 'underestimate', 'frequency', 'train', 'crossing', 'average', 'factor', 'threefootnote', 'another', 'difficulty', 'created', 'driver', 'expectation', 'extremely', 'powerful', 'shaping', 'attention', 'consequently', 'perception', 'uncommon', 'people', 'see', 'hear', 'expect', 'see', 'may', 'correspond', 'actually', 'visible', 'event', 'expected', 'occurs', 'may', 'go', 'unnoticed', 'observer', 'unexpected', 'event', 'likely', 'noticed', 'event', 'perceptually', 'salientfootnote', 'people', 'typically', 'take', 'longer', 'respond', 'unexpected', 'event', 'tend', 'make', 'error', 'response', 'educational', 'material', 'alberta', 'infrastructure', 'basic', 'licence', 'driver', 'handbook', 'supplement', 'large', 'truck', 'tractor', 'trailer', 'ambulance', 'taxi', 'bus', 'provide', 'section', 'railway', 'crossing', 'definition', 'warning', 'device', 'associated', 'crossing', 'well', 'safety', 'tip', 'figure', 'show', 'information', 'provided', 'railway', 'crossing', 'figure', 'information', 'provided', 'alberta', 'infrastructure', 'basic', 'licence', 'driver', 'handboook', 'image', 'sign', 'meaning', 'advance', 'railway', 'crossing', 'warning', 'sign', 'look', 'listen', 'slow', 'may', 'stop', 'b', 'advisory', 'speed', 'sign', 'safe', 'road', 'speed', 'less', 'posted', 'speed', 'c', 'railway', 'crossbuck', 'sign', 'driver', 'yield', 'train', 'one', 'track', 'sign', 'crossbuck', 'indicates', 'number', 'track', 'pavement', 'marking', 'indicate', 'approach', 'railway', 'crossing', 'e', 'crossbuck', 'stop', 'sign', 'driver', 'must', 'stop', 'closer', 'nearest', 'rail', 'driver', 'must', 'proceed', 'safely', 'regard', 'nighttime', 'condition', 'basic', 'licence', 'driver', 'handbook', 'state', 'able', 'stop', 'within', 'distance', 'illuminated', 'headlight', 'research', 'configuration', 'reflectorization', 'passive', 'crossing', 'research', 'improving', 'configuration', 'reflectorization', 'material', 'used', 'passive', 'crossing', 'suggests', 'significant', 'benefit', 'adding', 'reflectorized', 'material', 'back', 'blade', 'crossbuck', 'front', 'back', 'postsfootnote', 'configuration', 'result', 'nighttime', 'flicker', 'strobe', 'effect', 'far', 'side', 'crossbuck', 'train', 'moving', 'across', 'crossing', 'increasing', 'likelihood', 'driver', 'would', 'alerted', 'train', 'configuration', 'believed', 'particularly', 'helpful', 'following', 'reason', 'reflectorized', 'post', 'high', 'visual', 'impact', 'night', 'especially', 'dark', 'rural', 'area', 'distance', 'much', 'retroreflectivefootnote', 'post', 'create', 'goal', 'post', 'effect', 'night', 'help', 'driver', 'accurately', 'estimate', 'distance', 'crossing', 'driver', 'likely', 'approach', 'crossing', 'higher', 'level', 'alertness', 'slower', 'speed', 'consequently', 'better', 'prepared', 'stop', 'necessary', 'driver', 'learn', 'expect', 'see', 'two', 'bright', 'post', 'goal', 'post', 'absence', 'left', 'post', 'view', 'intermittent', 'appearance', 'disappearance', 'left', 'post', 'train', 'travel', 'past', 'crossing', 'alert', 'driver', 'presence', 'train', 'national', 'standard', 'reflectorization', 'crossing', 'time', 'accident', 'national', 'standard', 'respect', 'reflectorization', 'configuration', 'crossing', 'sign', 'governed', 'transport', 'canada', 'railwayhighway', 'crossing', 'grade', 'regulation', 'ctc', 'rail', 'however', 'transport', 'canada', 'process', 'approving', 'regulatory', 'change', 'improved', 'national', 'standard', 'governing', 'placement', 'design', 'specification', 'reflective', 'material', 'railway', 'crossing', 'sign', 'currently', 'september', 'draft', 'entitled', 'roadrailway', 'grade', 'crossing', 'technical', 'standard', 'inspection', 'testing', 'maintenance', 'requirement', 'standard', 'apply', 'operation', 'anr', 'railway', 'provincial', 'jurisdiction', 'reflectorization', 'rail', 'car', 'may', 'board', 'transport', 'commissioner', 'canada', 'btc', 'issued', 'order', 'n', 'required', 'canadian', 'freight', 'car', 'operating', 'federally', 'regulated', 'railway', 'reflectorized', 'followed', 'btc', 'order', 'n', 'january', 'required', 'freight', 'car', 'measuring', 'foot', 'less', 'length', 'four', 'reflector', 'per', 'side', 'car', 'measuring', 'greater', 'foot', 'six', 'reflector', 'per', 'side', 'reflective', 'material', 'fourinch', 'disc', 'diamondshaped', 'reflector', 'made', 'engineeringgrade', 'material', 'requirement', 'still', 'effect', 'canadian', 'car', 'united', 'state', 'currently', 'require', 'train', 'reflectorized', 'marker', 'transport', 'canada', 'permit', 'unreflectorized', 'north', 'american', 'car', 'enter', 'operate', 'canada', 'province', 'alberta', 'requirement', 'reflectorization', 'rail', 'car', 'operating', 'line', 'provincial', 'jurisdiction', 'rail', 'car', 'would', 'typically', 'interchanged', 'federal', 'line', 'canadian', 'pacific', 'railway', 'cpr', 'initiated', 'program', 'application', 'new', 'type', 'reflective', 'material', 'new', 'car', 'purchased', 'longterm', 'lease', 'car', 'car', 'completely', 'repainted', 'approximately', 'per', 'cent', 'car', 'cpr', 'fleet', 'reflectorized', 'marker', 'canadian', 'national', 'cn', 'also', 'initiated', 'program', 'application', 'diamond', 'grade', 'reflective', 'material', 'new', 'car', 'purchased', 'longterm', 'lease', 'car', 'overhauled', 'remainder', 'cns', 'cpr', 'fleet', 'upgraded', 'original', 'requirement', 'size', 'type', 'reflective', 'material', 'present', 'neither', 'railway', 'program', 'place', 'maintain', 'reflectorized', 'marker', 'however', 'cn', 'studying', 'feasibility', 'applying', 'maintaining', 'diamondgrade', 'material', 'car', 'fleet', 'research', 'potential', 'use', 'freight', 'car', 'reflectorization', 'conducted', 'u', 'federal', 'railroad', 'administration', 'fra', 'early', 'studiesfootnote', 'assessed', 'impact', 'age', 'dirt', 'reflective', 'intensity', 'engineeringgrade', 'retroreflective', 'sheeting', 'highintensity', 'reflective', 'sheeting', 'result', 'indicated', 'month', 'year', 'year', 'service', 'average', 'reflective', 'intensity', 'engineeringgrade', 'retroreflective', 'sheeting', 'reduced', 'per', 'cent', 'per', 'cent', 'per', 'cent', 'respectively', 'initial', 'value', 'human', 'observer', 'judging', 'reflectivity', 'night', 'indicated', 'per', 'cent', 'car', 'poor', 'condition', 'similar', 'preliminary', 'result', 'found', 'highintensity', 'reflective', 'sheeting', 'finding', 'led', 'fra', 'conclude', 'performance', 'type', 'material', 'justify', 'cost', 'however', 'recent', 'improvement', 'reflective', 'material', 'brightness', 'durability', 'adhesive', 'property', 'led', 'fra', 'reconsider', 'use', 'reflectorization', 'countermeasure', 'nighttime', 'condition', 'crossing', 'accident', 'comprehensive', 'research', 'program', 'initiated', 'u', 'volpe', 'national', 'transportation', 'system', 'center', 'volpe', 'final', 'report', 'published', 'footnote', 'significant', 'finding', 'research', 'summarized', 'follows', 'see', 'appendix', 'detailed', 'list', 'uniform', 'recognizable', 'pattern', 'reflective', 'marking', 'applied', 'freight', 'car', 'type', 'exception', 'reflectorized', 'freight', 'car', 'significantly', 'detectable', 'nonreflectorized', 'freight', 'car', 'uniform', 'pattern', 'reflectorized', 'material', 'facilitate', 'recognition', 'hazard', 'freight', 'car', 'configurationlocation', 'reflector', 'important', 'favourable', 'location', 'indicated', 'recently', 'developed', 'prismatic', 'material', 'durability', 'adhesiveness', 'likely', 'perform', 'threshold', 'level', 'year', 'routine', 'maintenance', 'maintenance', 'program', 'cost', 'estimated', 'limited', 'accident', 'data', 'suggest', 'freight', 'car', 'reflectorization', 'potentially', 'effective', 'reducing', 'accident', 'october', 'fra', 'announced', 'preliminary', 'analysis', 'evaluating', 'cost', 'benefit', 'placing', 'retroreflective', 'material', 'certain', 'rail', 'rolling', 'stock', 'reduce', 'collision', 'highwayrail', 'crossing', 'placed', 'public', 'docket', 'established', 'receive', 'information', 'topic', 'fra', 'indicated', 'extensive', 'analysis', 'technological', 'advance', 'since', 'reflectorization', 'rail', 'freight', 'equipment', 'appears', 'viable', 'costeffective', 'method', 'reducing', 'number', 'collision', 'highwayrail', 'grade', 'crossing', 'casualty', 'property', 'damage', 'result', 'collision', 'transport', 'canada', 'working', 'canadian', 'railway', 'fra', 'application', 'reflective', 'material', 'freight', 'car', 'factor', 'affecting', 'nighttime', 'visibility', 'daytime', 'driving', 'condition', 'human', 'eye', 'distinguish', 'target', 'road', 'contrast', 'colour', 'pattern', 'shading', 'texture', 'brightness', 'low', 'level', 'illumination', 'night', 'driving', 'contrast', 'brightness', 'generally', 'mean', 'distinguishing', 'object', 'fixed', 'lighting', 'system', 'mean', 'achieve', 'contrast', 'object', 'background', 'vehicle', 'headlight', 'effectiveness', 'headlight', 'providing', 'sufficient', 'contrast', 'object', 'background', 'depends', 'largely', 'difference', 'reflectivity', 'example', 'amount', 'light', 'reflected', 'surface', 'object', 'referred', 'luminance', 'four', 'time', 'greater', 'luminance', 'background', 'driver', 'likely', 'detect', 'object', 'difference', 'luminance', 'twofold', 'effect', 'dirt', 'driver', 'headlight', 'significant', 'effect', 'visibility', 'study', 'shown', 'wet', 'slushy', 'condition', 'illumination', 'vehicle', 'reduced', 'per', 'cent', 'area', 'horizontal', 'result', 'per', 'cent', 'decrease', 'forward', 'visibility', 'truck', 'involved', 'accident', 'mile', 'regularly', 'operating', 'gravel', 'road', 'increasing', 'chance', 'dirt', 'would', 'accumulate', 'headlight', 'however', 'known', 'whether', 'truck', 'light', 'accumulated', 'dirt', 'night', 'accident', 'dirt', 'also', 'marked', 'effect', 'retroreflectors', 'light', 'pas', 'dirt', 'layer', 'twice', 'reflective', 'material', 'mounted', 'truck', 'early', 'found', 'exhibit', 'loss', 'per', 'cent', 'per', 'cent', 'winter', 'monthsfootnote', 'visual', 'glare', 'create', 'discomfort', 'annoyance', 'receiver', 'well', 'diminish', 'visual', 'capability', 'contrast', 'object', 'forward', 'field', 'view', 'greatly', 'diminishedfootnote', 'highway', 'design', 'consideration', 'number', 'engineering', 'guide', 'available', 'help', 'road', 'authority', 'determine', 'appropriate', 'location', 'installing', 'traffic', 'device', 'sign', 'determine', 'safe', 'vehicle', 'speed', 'canada', 'transportation', 'association', 'canada', 'tac', 'publishes', 'manual', 'geometric', 'design', 'standard', 'canadian', 'road', 'stopping', 'sight', 'distance', 'ssd', 'defined', 'sum', 'distance', 'travelled', 'perception', 'reaction', 'time', 'braking', 'distance', 'braking', 'distance', 'distance', 'take', 'stop', 'vehicle', 'brake', 'applied', 'manual', 'geometric', 'design', 'standard', 'canadian', 'road', 'includes', 'following', 'explanation', 'stopping', 'sight', 'distance', 'allows', 'alert', 'competent', 'driver', 'come', 'quick', 'stop', 'ordinary', 'circumstance', 'distance', 'usually', 'inadequate', 'driver', 'must', 'make', 'complex', 'decision', 'information', 'difficult', 'find', 'information', 'unusual', 'unusual', 'manoeuvre', 'required', 'limiting', 'sight', 'distance', 'stopping', 'sight', 'distance', 'may', 'preclude', 'driver', 'performing', 'unusual', 'evasive', 'manoeuvre', 'similarly', 'stopping', 'sight', 'distance', 'may', 'provide', 'driver', 'enough', 'visibility', 'allow', 'piece', 'together', 'warning', 'signal', 'decide', 'course', 'action', 'decision', 'sight', 'distance', 'allows', 'driver', 'manoeuvre', 'vehicle', 'vary', 'operating', 'speed', 'rather', 'stop', 'decision', 'sight', 'distance', 'much', 'greater', 'stopping', 'sight', 'distance', 'given', 'design', 'speed', 'designer', 'use', 'decision', 'sight', 'distance', 'whenever', 'information', 'may', 'perceived', 'incorrectly', 'decision', 'required', 'control', 'action', 'required', 'example', 'could', 'desirable', 'provide', 'decision', 'sight', 'distance', 'complex', 'interchange', 'intersection', 'location', 'unusual', 'unexpected', 'manoeuvre', 'occur', 'location', 'significant', 'change', 'roadway', 'cross', 'section', 'made', 'area', 'multiple', 'demand', 'driver', 'decision', 'making', 'capability', 'road', 'element', 'traffic', 'control', 'device', 'advertising', 'traffic', 'etc', 'construction', 'zone', 'manual', 'geometric', 'design', 'standard', 'canadian', 'road', 'highway', 'design', 'speed', 'kmh', 'decision', 'sight', 'distance', 'dsd', 'recommended', 'recommended', 'ssd', 'automobile', 'truck', 'antilock', 'braking', 'system', 'truck', 'conventional', 'braking', 'system', 'design', 'speed', 'kmh', 'dsd', 'recommended', 'recommended', 'ssd', 'automobile', 'truck', 'antilock', 'braking', 'system', 'truck', 'conventional', 'braking', 'system', 'significant', 'change', 'manual', 'geometric', 'design', 'standard', 'canadian', 'road', 'manual', 'geometric', 'design', 'standard', 'canadian', 'road', 'inclusion', 'variation', 'ssd', 'truck', 'change', 'made', 'recognition', 'highly', 'variable', 'nature', 'truck', 'braking', 'distance', 'manual', 'geometric', 'design', 'standard', 'canadian', 'road', 'difference', 'ssd', 'recommendation', 'passenger', 'vehicle', 'truck', 'specification', 'transport', 'canada', 'draft', 'roadrailway', 'grade', 'crossing', 'technical', 'standard', 'inspection', 'testing', 'maintenance', 'requirement', 'use', 'value', 'design', 'road', 'approach', 'assessment', 'ssds', 'existing', 'grade', 'crossing', 'sightlines', 'placement', 'alignment', 'sign', 'grade', 'crossing', 'warning', 'signal', 'specification', 'provide', 'different', 'ssds', 'passenger', 'car', 'truck', 'recommended', 'manual', 'geometric', 'design', 'standard', 'canadian', 'road', 'stopping', 'sight', 'distance', 'manual', 'geometric', 'design', 'standard', 'canadian', 'road', 'alberta', 'infrastructure', 'highway', 'geometric', 'design', 'guide', 'maximum', 'permissible', 'speed', 'kmh', 'passenger', 'car', 'truck', 'na', 'na', 'ssds', 'applied', 'construction', 'highway', 'alberta', 'infrastructure', 'highway', 'geometric', 'design', 'guidefootnote', 'guide', 'differentiate', 'ssds', 'automobile', 'truck', 'august', 'alberta', 'infrastructure', 'published', 'revised', 'version', 'highway', 'geometric', 'design', 'guide', 'also', 'differentiate', 'ssds', 'automobile', 'truck', 'analysis', 'crossing', 'mile', 'typical', 'many', 'crossing', 'found', 'rural', 'canada', 'except', 'sign', 'indicating', 'rail', 'line', 'service', 'environmental', 'factor', 'significance', 'cold', 'dark', 'clear', 'night', 'road', 'snowcovered', 'icy', 'first', 'accident', 'occurred', 'illumination', 'general', 'vicinity', 'crossing', 'locomotive', 'well', 'past', 'crossing', 'automatic', 'warning', 'device', 'show', 'crossing', 'occupied', 'train', 'approximately', 'three', 'hour', 'later', 'second', 'accident', 'occurred', 'one', 'vehicle', 'side', 'crossing', 'police', 'vehicle', 'west', 'side', 'picker', 'truck', 'east', 'side', 'analysis', 'explore', 'neither', 'driver', 'detected', 'presence', 'train', 'distance', 'allowed', 'safe', 'braking', 'stop', 'ahead', 'crossing', 'driver', 'tractortrailer', 'significantly', 'slow', 'response', 'advance', 'warning', 'sign', 'expect', 'train', 'crossing', 'information', 'present', 'contradict', 'expectation', 'expectation', 'would', 'train', 'based', 'experience', 'rarely', 'ever', 'encountering', 'train', 'area', 'explanation', 'consistent', 'finding', 'many', 'crossing', 'investigation', 'assumption', 'behind', 'passive', 'crossing', 'system', 'driver', 'see', 'advance', 'warning', 'sign', 'immediately', 'adjust', 'driving', 'behaviour', 'prepared', 'stop', 'short', 'crossing', 'train', 'detected', 'word', 'system', 'requires', 'driver', 'always', 'expect', 'train', 'reality', 'many', 'situation', 'actually', 'create', 'opposite', 'expectation', 'ie', 'train', 'present', 'situation', 'likely', 'prevalent', 'lac', 'la', 'biche', 'area', 'due', 'low', 'frequency', 'train', 'operated', 'recent', 'history', 'train', 'operation', 'starting', 'territory', 'situation', 'existed', 'despite', 'anrs', 'alpacs', 'measure', 'alert', 'public', 'commercial', 'truck', 'operator', 'railway', 'operation', 'resumed', 'aws', 'crossing', 'indicate', 'driver', 'action', 'must', 'taken', 'particular', 'sign', 'communicate', 'driver', 'crossing', 'protection', 'passive', 'identify', 'distance', 'crossing', 'safe', 'driving', 'speed', 'situation', 'found', 'lac', 'la', 'biche', 'common', 'across', 'canada', 'highway', 'additional', 'warning', 'sign', 'pertaining', 'crossing', 'however', 'application', 'inconsistent', 'among', 'highway', 'authority', 'example', 'highway', 'authority', 'may', 'post', 'distance', 'crossing', 'still', 'others', 'may', 'post', 'yield', 'expect', 'train', 'sign', 'nighttime', 'condition', 'information', 'conveyed', 'additional', 'sign', 'may', 'particularly', 'beneficial', 'driver', 'visual', 'cue', 'available', 'alert', 'driver', 'train', 'occupying', 'crossing', 'driver', 'tractortrailer', 'begin', 'react', 'moving', 'train', 'estimated', 'away', 'driver', 'logging', 'truck', 'reacted', 'stationary', 'train', 'four', 'second', 'impact', 'crossing', 'headlight', 'either', 'truck', 'could', 'expected', 'effectively', 'illuminate', 'ahead', 'likely', 'driver', 'tractortrailer', 'reacted', 'earlier', 'human', 'eye', 'sensitive', 'motion', 'motion', 'attracts', 'person', 'attention', 'help', 'differentiate', 'object', 'background', 'provides', 'information', 'shape', 'moving', 'object', 'although', 'headlight', 'stationary', 'picker', 'truck', 'straddling', 'shoulder', 'highway', 'shining', 'black', 'rail', 'car', 'stationary', 'train', 'low', 'luminance', 'headlight', 'picker', 'truck', 'headlight', 'logging', 'truck', 'would', 'provided', 'minimal', 'contrast', 'train', 'background', 'making', 'difficult', 'driver', 'logging', 'truck', 'detect', 'train', 'strip', 'reflectorized', 'material', 'back', 'post', 'selected', 'applied', 'crossing', 'initiative', 'railway', 'although', 'appear', 'attracted', 'attention', 'tractortrailer', 'driver', 'research', 'indicates', 'standardization', 'material', 'application', 'generally', 'improves', 'driver', 'likelihood', 'identifying', 'moving', 'train', 'passive', 'crossing', 'research', 'also', 'indicates', 'recently', 'available', 'grade', 'reflectorized', 'material', 'may', 'seen', 'away', 'benefit', 'reflectorized', 'post', 'greater', 'standardized', 'term', 'optimal', 'material', 'configuration', 'implemented', 'recognized', 'nationwide', 'although', 'reflectorized', 'disc', 'rail', 'car', 'due', 'age', 'size', 'condition', 'disc', 'likely', 'offered', 'little', 'benefit', 'driver', 'detecting', 'presence', 'train', 'distance', 'benefit', 'reflectorization', 'safety', 'best', 'met', 'industry', 'specification', 'provided', 'criterion', 'including', 'minimum', 'reflective', 'intensity', 'configuration', 'volpe', 'report', 'freight', 'car', 'reflectorization', 'demonstrated', 'currently', 'available', 'reflective', 'material', 'provide', 'reasonable', 'brightness', 'durability', 'adhesiveness', 'year', 'period', 'routine', 'maintenance', 'provided', 'given', 'rail', 'car', 'come', 'north', 'america', 'given', 'canadian', 'regulation', 'enforced', 'foreign', 'car', 'presence', 'reflector', 'particular', 'car', 'railway', 'coincidental', 'reflectorization', 'regulation', 'yet', 'introduced', 'u', 'consideration', 'fras', 'recent', 'analysis', 'support', 'conclusion', 'decline', 'cost', 'reflective', 'material', 'combination', 'better', 'performance', 'lower', 'maintenance', 'cost', 'created', 'situation', 'benefit', 'reflectorization', 'appear', 'exceed', 'cost', 'although', 'generally', 'accepted', 'forward', 'distance', 'headlight', 'illumination', 'reality', 'driver', 'required', 'able', 'detect', 'lowcontrast', 'object', 'actual', 'driving', 'speed', 'would', 'restricted', 'approximately', 'kmhfootnote', 'thus', 'concept', 'driving', 'one', 'headlight', 'suggested', 'alberta', 'infrastructure', 'basic', 'licence', 'driver', 'handbook', 'adopted', 'legislated', 'nighttime', 'speed', 'limit', 'practiced', 'canadian', 'public', 'respect', 'railway', 'crossing', 'concept', 'demonstrates', 'need', 'highcontrast', 'material', 'rail', 'car', 'provide', 'driver', 'reasonably', 'discernable', 'target', 'also', 'tradeoff', 'vehicle', 'speed', 'distancetime', 'react', 'object', 'even', 'greater', 'environmental', 'condition', 'existed', 'highway', 'crossing', 'night', 'accident', 'occurred', 'although', 'certain', 'may', 'accumulated', 'dirt', 'vehicle', 'headlight', 'traffic', 'control', 'railway', 'response', 'responding', 'rcmp', 'officer', 'decision', 'solicit', 'assistance', 'motorist', 'accident', 'site', 'ensure', 'safe', 'traffic', 'control', 'consistent', 'rural', 'policing', 'practice', 'responding', 'rcmp', 'officer', 'satisfied', 'light', 'car', 'parked', 'west', 'side', 'crossing', 'stationary', 'vehicle', 'side', 'crossing', 'providing', 'adequate', 'illumination', 'approaching', 'traffic', 'would', 'stop', 'safely', 'number', 'vehicle', 'safely', 'approached', 'crossing', 'direction', 'confirming', 'traffic', 'control', 'measure', 'place', 'desired', 'effect', 'vehicle', 'began', 'voluntarily', 'detouring', 'imperial', 'mill', 'road', 'strengthened', 'notion', 'measure', 'adequate', 'however', 'second', 'collision', 'rcmp', 'officer', 'quickly', 'concluded', 'additional', 'measure', 'required', 'ensure', 'safety', 'rcmp', 'policy', 'national', 'level', 'within', 'province', 'alberta', 'direct', 'specific', 'traffic', 'control', 'action', 'collision', 'scene', 'however', 'protection', 'accident', 'scene', 'collision', 'primary', 'focus', 'officer', 'training', 'view', 'rcmp', 'due', 'variety', 'collision', 'investigates', 'would', 'virtually', 'impossible', 'written', 'policy', 'driver', 'logging', 'truck', 'respond', 'aws', 'activity', 'crossing', 'reducing', 'speed', 'point', 'headlight', 'may', 'provided', 'illumination', 'occupied', 'crossing', 'however', 'visual', 'cue', 'available', 'significantly', 'less', 'compelling', 'visual', 'cue', 'available', 'earlier', 'westbound', 'traffic', 'particular', 'removal', 'ditched', 'tractortrailer', 'one', 'remaining', 'vehicle', 'east', 'side', 'crossing', 'vehicle', 'picker', 'truck', 'headlight', 'fourway', 'flasher', 'since', 'uncommon', 'similar', 'truck', 'pulled', 'shoulder', 'highway', 'probable', 'driver', 'logging', 'truck', 'identify', 'picker', 'truck', 'traffic', 'control', 'measure', 'therefore', 'significantly', 'slow', 'extended', 'occupancy', 'highway', 'crossing', 'night', 'particularly', 'one', 'protected', 'passive', 'mean', 'potentially', 'dangerous', 'situation', 'railway', 'personnel', 'considered', 'responsible', 'protection', 'traffic', 'movement', 'highway', 'crossing', 'occupied', 'train', 'reflects', 'general', 'operating', 'philosophy', 'railway', 'canada', 'crew', 'member', 'considered', 'responsibility', 'rcmp', 'officer', 'although', 'railway', 'operating', 'rule', 'cover', 'requirement', 'notify', 'proper', 'authority', 'employee', 'join', 'force', 'protect', 'train', 'existing', 'railway', 'procedure', 'specifically', 'address', 'protecting', 'train', 'highway', 'traffic', 'emergency', 'situation', 'resulting', 'accident', 'rural', 'area', 'night', 'condition', 'conceivable', 'train', 'crew', 'may', 'ablebodied', 'people', 'capable', 'setting', 'hazard', 'warning', 'device', 'flagging', 'traffic', 'control', 'authority', 'arrives', 'issue', 'relating', 'passive', 'crossing', 'many', 'engineering', 'design', 'guideline', 'developed', 'used', 'aggregate', 'automobile', 'truck', 'deceleration', 'rate', 'used', 'calculation', 'ssds', 'result', 'inappropriate', 'ssds', 'truck', 'aggregate', 'deceleration', 'rate', 'take', 'consideration', 'large', 'variability', 'braking', 'distance', 'truck', 'many', 'recent', 'engineering', 'guideline', 'provide', 'separate', 'ssds', 'automobile', 'truck', 'including', 'draft', 'regulation', 'proposed', 'transport', 'canada', 'regard', 'railway', 'crossing', 'although', 'transport', 'canada', 'regulation', 'apply', 'federally', 'regulated', 'railway', 'important', 'railway', 'road', 'authority', 'informed', 'new', 'ssds', 'route', 'heavily', 'used', 'truck', 'sightline', 'northeast', 'quadrant', 'crossing', 'mile', 'would', 'meet', 'standard', 'truck', 'set', 'transport', 'canada', 'draft', 'roadrailway', 'grade', 'crossing', 'technical', 'standard', 'inspection', 'testing', 'maintenance', 'requirement', 'actual', 'ssd', 'compared', 'recommended', 'truck', 'travelling', 'kmh', 'speed', 'limit', 'increased', 'highway', 'kmh', 'corresponds', 'recommended', 'ssd', 'truck', 'transport', 'canada', 'draft', 'roadrailway', 'grade', 'crossing', 'technical', 'standard', 'inspection', 'testing', 'maintenance', 'requirement', 'alberta', 'infrastructure', 'highway', 'geometric', 'design', 'guide', 'ssd', 'standard', 'contained', 'highway', 'geometric', 'design', 'guide', 'adopted', 'alberta', 'still', 'differentiate', 'varying', 'stopping', 'ability', 'passenger', 'vehicle', 'truck', 'may', 'lead', 'lower', 'level', 'safety', 'highwayrailway', 'interface', 'point', 'passive', 'warning', 'province', 'another', 'area', 'consideration', 'whether', 'reasonable', 'dsds', 'rather', 'ssds', 'used', 'determining', 'sightlines', 'railway', 'crossing', 'possibly', 'determining', 'appropriate', 'speed', 'limit', 'vicinity', 'crossing', 'establishing', 'dsds', 'canadian', 'highway', 'designer', 'clearly', 'recognize', 'need', 'additional', 'margin', 'error', 'certain', 'condition', 'determining', 'factor', 'distance', 'requirement', 'speed', 'current', 'approach', 'crossing', 'provide', 'aws', 'many', 'sign', 'provide', 'advisory', 'speed', 'essence', 'driver', 'maintains', 'posted', 'highway', 'operating', 'speed', 'heshe', 'within', 'ssd', 'range', 'may', 'insufficient', 'timedistance', 'detect', 'approaching', 'train', 'stop', 'assuming', 'daylight', 'driving', 'condition', 'passive', 'grade', 'crossing', 'system', 'sight', 'distance', 'approach', 'warning', 'pavement', 'marking', 'crossbuck', 'sign', 'significantly', 'changed', 'year', 'bearing', 'mind', 'number', 'passive', 'crossing', 'exist', 'continue', 'exist', 'year', 'come', 'situation', 'occurred', 'accident', 'recur', 'unless', 'significant', 'action', 'taken', 'change', 'must', 'made', 'underlying', 'design', 'philosophy', 'railwayhighway', 'interface', 'take', 'account', 'reality', 'driver', 'expectation', 'driver', 'expect', 'train', 'approach', 'improve', 'situation', 'modifying', 'driver', 'expectation', 'intelligent', 'transportation', 'system', 'technology', 'alert', 'driver', 'approaching', 'train', 'standardization', 'traffic', 'control', 'device', 'associated', 'crossing', 'information', 'notifying', 'motorist', 'distance', 'crossing', 'appropriate', 'speed', 'approach', 'crossing', 'reflectorization', 'improvement', 'addition', 'effort', 'modify', 'driver', 'expectation', 'method', 'enhance', 'conspicuity', 'train', 'standardized', 'configuration', 'eg', 'size', 'pattern', 'minimum', 'reflective', 'intensity', 'requirement', 'reflectorized', 'decal', 'would', 'enhance', 'overall', 'safety', 'railwayhighway', 'interface', 'fatigue', 'insufficient', 'data', 'determine', 'whether', 'driver', 'fatigue', 'played', 'role', 'either', 'accident', 'nonetheless', 'analysis', 'hour', 'duty', 'logging', 'truck', 'driver', 'indicated', 'schedule', 'conducive', 'fatigue', 'following', 'reason', 'driver', 'worked', 'hour', 'previous', 'seven', 'day', 'including', 'one', 'day', 'rest', 'driver', 'work', 'schedule', 'seven', 'day', 'preceding', 'accident', 'required', 'obtain', 'sleep', 'time', 'synchronization', 'normal', 'circadian', 'rhythm', 'finding', 'finding', 'cause', 'contributing', 'factor', 'visual', 'cue', 'available', 'driver', 'collision', 'regarding', 'presence', 'train', 'crossing', 'sufficiently', 'compelling', 'modify', 'expectation', 'unoccupied', 'crossing', 'time', 'averted', 'collision', 'traffic', 'control', 'measure', 'implemented', 'first', 'accident', 'led', 'controlled', 'deceleration', 'stopping', 'number', 'vehicle', 'direction', 'however', 'departure', 'picker', 'truck', 'east', 'side', 'crossing', 'second', 'collision', 'reduced', 'effectiveness', 'traffic', 'control', 'westward', 'vehicle', 'rotating', 'beacon', 'police', 'car', 'located', 'west', 'side', 'crossing', 'recognized', 'motorist', 'traffic', 'control', 'measure', 'however', 'fourway', 'flasher', 'picker', 'truck', 'east', 'side', 'crossing', 'may', 'similarly', 'recognized', 'finding', 'risk', 'combination', 'low', 'luminance', 'train', 'night', 'passive', 'nature', 'crossing', 'allowable', 'speed', 'vehicle', 'presented', 'high', 'risk', 'motorist', 'would', 'detect', 'train', 'sufficient', 'time', 'avert', 'collision', 'effectiveness', 'passively', 'protected', 'highwayrailway', 'interface', 'predicated', 'upon', 'expectation', 'driver', 'behave', 'crossing', 'occupied', 'occupied', 'train', 'confirmed', 'otherwise', 'appears', 'inaccurate', 'premise', 'canadian', 'regulation', 'reflectorization', 'train', 'provide', 'specification', 'reflector', 'design', 'criterion', 'minimum', 'reflective', 'intensity', 'configuration', 'without', 'specification', 'regulation', 'ineffective', 'existing', 'canadian', 'regulation', 'regarding', 'reflectorization', 'enforced', 'u', 'freight', 'car', 'entering', 'canada', 'given', 'large', 'number', 'freight', 'car', 'exchanged', 'u', 'canada', 'impact', 'canadian', 'regulation', 'safety', 'variable', 'canadian', 'rail', 'operating', 'rule', 'address', 'issue', 'protect', 'oncoming', 'highway', 'traffic', 'event', 'train', 'occupies', 'crossing', 'five', 'minute', 'eg', 'crossing', 'accident', 'thereby', 'exposing', 'travelling', 'public', 'unsafe', 'situation', 'transport', 'canada', 'proposed', 'regulation', 'railway', 'crossing', 'use', 'separate', 'stopping', 'sight', 'distance', 'ssds', 'automobile', 'truck', 'take', 'account', 'highly', 'variable', 'nature', 'truck', 'braking', 'distance', 'however', 'regulation', 'apply', 'federally', 'regulated', 'railway', 'road', 'authority', 'adopted', 'similar', 'approach', 'although', 'could', 'determined', 'whether', 'driver', 'fatigue', 'played', 'role', 'accident', 'long', 'hour', 'duty', 'schedule', 'logging', 'truck', 'driver', 'conducive', 'fatigue', 'thereby', 'increased', 'risk', 'performance', 'could', 'adversely', 'affected', 'finding', 'standard', 'configuration', 'reflectorization', 'scheme', 'passive', 'crossing', 'warning', 'system', 'proposed', 'transport', 'canada', 'likely', 'increase', 'level', 'safety', 'passively', 'protected', 'crossing', 'given', 'nature', 'highwayrailway', 'interface', 'use', 'decision', 'stopping', 'distance', 'dsds', 'rather', 'ssds', 'determination', 'maximum', 'vehicle', 'approach', 'speed', 'would', 'provide', 'greater', 'safety', 'margin', 'highway', 'vehicle', 'safety', 'action', 'january', 'lakeland', 'county', 'made', 'application', 'alberta', 'ministry', 'transportation', 'infrastructure', 'branch', 'alberta', 'infrastructure', 'installation', 'automatic', 'protection', 'device', 'location', 'proposal', 'reviewed', 'basis', 'train', 'vehicular', 'traffic', 'volume', 'decided', 'location', 'warrant', 'installation', 'automatic', 'protection', 'device', 'time', 'safety', 'concern', 'rolling', 'stock', 'reflectorization', 'study', 'conducted', 'u', 'federal', 'railroad', 'administration', 'fra', 'assess', 'impact', 'age', 'dirt', 'reflective', 'intensity', 'engineeringgrade', 'retroreflective', 'material', 'indicated', 'average', 'reflectivity', 'reduced', 'per', 'cent', 'initial', 'value', 'two', 'year', 'service', 'recent', 'fra', 'costbenefit', 'analysis', 'support', 'conclusion', 'decline', 'cost', 'reflective', 'material', 'combination', 'better', 'performance', 'lower', 'maintenance', 'cost', 'created', 'situation', 'benefit', 'reflectorization', 'appear', 'exceed', 'cost', 'tsb', 'statistic', 'indicate', 'total', 'nighttime', 'accident', 'passively', 'protected', 'crossing', 'federal', 'regulation', 'resulting', 'fatality', 'injury', 'tsb', 'concerned', 'many', 'rail', 'car', 'operating', 'passively', 'protected', 'crossing', 'night', 'inadequate', 'reflectorization', 'help', 'alert', 'motorist', 'presence', 'tsb', 'belief', 'hazard', 'could', 'reduced', 'substantially', 'application', 'maintenance', 'modern', 'reflective', 'material', 'rail', 'car', 'highway', 'design', 'consideration', 'number', 'engineering', 'guide', 'available', 'help', 'road', 'authority', 'determine', 'safe', 'vehicle', 'speed', 'location', 'installing', 'traffic', 'device', 'sign', 'transportation', 'association', 'canada', 'tac', 'publishes', 'manual', 'geometric', 'design', 'standard', 'canadian', 'road', 'alberta', 'infrastructure', 'publishes', 'highway', 'geometric', 'design', 'guide', 'transport', 'canada', 'draft', 'roadrailway', 'grade', 'crossing', 'technical', 'standard', 'inspection', 'testing', 'maintenance', 'requirement', 'transport', 'canada', 'tac', 'recommend', 'stopping', 'sight', 'distance', 'ssd', 'automobile', 'travelling', 'kmh', 'ssd', 'truck', 'travelling', 'kmh', 'alberta', 'infrastructure', 'guide', 'suggests', 'ssd', 'automobile', 'truck', 'addition', 'tac', 'recommends', 'designer', 'use', 'decision', 'sight', 'distance', 'dsds', 'whenever', 'information', 'may', 'perceived', 'incorrectly', 'decision', 'required', 'control', 'action', 'required', 'case', 'recommended', 'ssd', 'automobile', 'would', 'truck', 'board', 'concerned', 'highway', 'geometric', 'design', 'guide', 'used', 'province', 'alberta', 'ssds', 'differentiate', 'automobile', 'truck', 'ssds', 'report', 'concludes', 'transportation', 'safety', 'board', 'investigation', 'occurrence', 'consequently', 'board', 'authorized', 'release', 'report', 'february', 'appendix', 'appendix', 'significant', 'finding', 'based', 'freight', 'car', 'reflectorization', 'research', 'following', 'detailed', 'summary', 'significant', 'finding', 'resulting', 'freight', 'car', 'reflectorization', 'research', 'program', 'volpe', 'national', 'transportation', 'system', 'center', 'uniform', 'recognizable', 'pattern', 'reflective', 'marking', 'applied', 'freight', 'car', 'type', 'exception', 'based', 'human', 'factor', 'study', 'reflectorized', 'freight', 'car', 'significantly', 'detectable', 'nonreflectorized', 'freight', 'car', 'also', 'based', 'human', 'factor', 'study', 'uniform', 'pattern', 'reflectorized', 'material', 'facilitate', 'recognition', 'hazard', 'freight', 'car', 'pattern', 'indicate', 'shape', 'car', 'employ', 'colour', 'red', 'white', 'sufficiently', 'distinctive', 'confused', 'large', 'truck', 'marking', 'minimum', 'favourable', 'placement', 'location', 'reflector', 'inch', 'top', 'rail', 'large', 'reflector', 'measuring', 'inch', 'inch', 'maintained', 'average', 'acceptable', 'reflective', 'performance', 'entire', 'testing', 'period', 'year', 'freight', 'car', 'type', 'placement', 'reflector', 'sill', 'freight', 'car', 'found', 'detrimental', 'performance', 'reflector', 'due', 'smaller', 'size', 'position', 'sill', 'level', 'location', 'near', 'loading', 'point', 'smaller', 'white', 'reflector', 'perform', 'well', 'harsh', 'railroad', 'operating', 'condition', 'midcar', 'location', 'many', 'freight', 'car', 'type', 'provide', 'severe', 'operational', 'condition', 'therefore', 'location', 'considered', 'freight', 'car', 'reflectorization', 'rulemaking', 'process', 'performance', 'reflector', 'observed', 'significantly', 'affected', 'natural', 'environmental', 'factor', 'mechanical', 'washing', 'reflector', 'resulted', 'performance', 'rebounding', 'significantly', 'level', 'near', 'original', 'value', 'periodic', 'washing', 'reflector', 'mounted', 'freight', 'car', 'extend', 'performance', 'limit', 'life', 'expectancy', 'recently', 'developed', 'prismatic', 'material', 'durability', 'adhesiveness', 'likely', 'perform', 'threshold', 'level', 'year', 'routine', 'maintenance', 'based', 'limited', 'accident', 'experience', 'freight', 'car', 'reflectorization', 'observed', 'potentially', 'effective', 'reducing', 'accident', 'demonstration', 'test', 'pattern', 'original', 'cost', 'reduced', 'per', 'cent', 'based', 'information', 'stated', 'manufacturer', 'cost', 'material', 'per', 'car', 'approximately', 'additionally', 'association', 'american', 'railroad', 'aar', 'labour', 'rate', 'approximately', 'per', 'hour', 'using', 'estimate', 'reflectorizing', 'older', 'car', 'normal', 'maintenance', 'program', 'may', 'need', 'heavy', 'cleaning', 'aar', 'labour', 'rate', 'reduced', 'material', 'cost', 'resultant', 'maximum', 'material', 'cost', 'per', 'car', 'using', 'tested', 'pattern', 'would', 'approximately', 'heavy', 'cleaning', 'reflector', 'would', 'require', 'two', 'person', 'minute', 'complete', 'process', 'approximately', 'every', 'month', 'resulting', 'cost', 'approximately', 'per', 'event', 'manufacturer', 'specifies', 'prismatic', 'material', 'useful', 'life', 'year', 'therefore', 'maximum', 'projected', 'total', 'cost', 'material', 'maintenance', 'year', 'period', 'would', 'per', 'car', 'based', 'lower', 'material', 'cost', 'heavy', 'cleaning', 'twoperson', 'annual', 'maintenance', 'aar', 'labour', 'rate', 'appendix', 'b', 'glossary', 'aadt', 'average', 'annual', 'daily', 'traffic', 'aar', 'association', 'american', 'railroad', 'alberta', 'infrastructure', 'alberta', 'ministry', 'transportation', 'infrastructure', 'branch', 'alpac', 'albertapacific', 'forest', 'industry', 'inc', 'anr', 'athabasca', 'northern', 'railway', 'ltd', 'aws', 'advance', 'warning', 'sign', 'btc', 'board', 'transport', 'commissioner', 'canada', 'cic', 'coordination', 'information', 'centre', 'cn', 'canadian', 'national', 'cpr', 'canadian', 'pacific', 'railway', 'cror', 'canadian', 'rail', 'operating', 'rule', 'cwr', 'central', 'western', 'railway', 'dsd', 'decision', 'sight', 'distance', 'em', 'emergency', 'medical', 'service', 'fra', 'federal', 'railroad', 'administration', 'gps', 'global', 'positioning', 'system', 'km', 'kilometre', 'kmh', 'kilometre', 'per', 'hour', 'metre', 'mph', 'mile', 'per', 'hour', 'mst', 'mountain', 'standard', 'time', 'ntsb', 'national', 'transportation', 'safety', 'board', 'ocs', 'occupancy', 'control', 'system', 'rcmp', 'royal', 'canadian', 'mounted', 'police', 'rtc', 'rail', 'traffic', 'controller', 'ssd', 'stopping', 'sight', 'distance', 'tsb', 'transportation', 'safety', 'board', 'canada', 'tac', 'transportation', 'association', 'canada', 'u', 'united', 'state', 'utc', 'coordinated', 'universal', 'time', 'volpe', 'volpe', 'national', 'transportation', 'system', 'center', 'footnote', 'footnote', 'time', 'mst', 'coordinated', 'universal', 'time', 'utc', 'minus', 'seven', 'hour', 'unless', 'otherwise', 'indicated', 'return', 'footnote', 'referrer', 'footnote', 'february', 'anr', 'received', 'authority', 'provincial', 'government', 'operate', 'shortline', 'railway', 'replacing', 'previous', 'agreement', 'cwr', 'return', 'footnote', 'referrer', 'footnote', 'national', 'transportation', 'safety', 'board', 'safety', 'passive', 'grade', 'crossing', 'volume', 'analysis', 'safety', 'study', 'ntsbss', 'washington', 'dc', 'p', 'return', 'footnote', 'referrer', 'footnote', 'national', 'transportation', 'safety', 'board', 'safety', 'passive', 'grade', 'crossing', 'volume', 'analysis', 'safety', 'study', 'ntsbss', 'washington', 'dc', 'return', 'footnote', 'referrer', 'footnote', 'national', 'transportation', 'safety', 'board', 'safety', 'passive', 'grade', 'crossing', 'volume', 'analysis', 'safety', 'study', 'ntsbss', 'washington', 'dc', 'p', 'return', 'footnote', 'referrer', 'footnote', 'mr', 'endsley', 'situational', 'awareness', 'dynamic', 'human', 'decision', 'making', 'measurement', 'situational', 'awareness', 'complex', 'system', 'proceeding', 'cahfa', 'conference', 'february', 'fl', 'embryriddle', 'aeronautical', 'university', 'press', 'p', 'return', 'footnote', 'referrer', 'footnote', 'transport', 'canada', 'study', 'adding', 'reflective', 'material', 'crossing', 'sign', 'post', 'tp', 'e', 'return', 'footnote', 'referrer', 'footnote', 'retroreflector', 'device', 'reflects', 'light', 'path', 'ray', 'parallel', 'incident', 'ray', 'return', 'footnote', 'referrer', 'footnote', 'james', 'l', 'poage', 'john', 'b', 'hopkins', 'measurement', 'analysis', 'degradation', 'freight', 'car', 'reflector', 'revenue', 'service', 'transportation', 'research', 'record', 'james', 'l', 'poage', 'james', 'c', 'pomfret', 'john', 'b', 'hopkins', 'freight', 'car', 'reflectorization', 'transportation', 'system', 'center', 'research', 'special', 'program', 'administration', 'u', 'department', 'transportation', 'cambridge', 'report', 'frarrs', 'return', 'footnote', 'referrer', 'footnote', 'safety', 'highwayrailroad', 'grade', 'crossing', 'freight', 'car', 'reflectorization', 'dotfraord', 'return', 'footnote', 'referrer', 'footnote', 'pl', 'olson', 'forensic', 'aspect', 'driver', 'perception', 'response', 'lawyer', 'judge', 'publishing', 'company', 'inc', 'tuscon', 'az', 'p', 'return', 'footnote', 'referrer', 'footnote', 'distance', 'target', 'seen', 'reduced', 'half', 'pl', 'olson', 'forensic', 'aspect', 'driver', 'perception', 'response', 'lawyer', 'judge', 'publishing', 'company', 'inc', 'tuscon', 'az', 'p', 'return', 'footnote', 'referrer', 'footnote', 'stated', 'purpose', 'guide', 'promote', 'uniformity', 'highway', 'design', 'alberta', 'legal', 'standard', 'return', 'footnote', 'referrer', 'footnote', 'pl', 'olson', 'forensic', 'aspect', 'driver', 'perception', 'response', 'lawyer', 'judge', 'publishing', 'company', 'inc', 'tuscon', 'az', 'p', 'return', 'footnote', 'referrer']

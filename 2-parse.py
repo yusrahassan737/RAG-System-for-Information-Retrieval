@@ -2,9 +2,7 @@
 # Class: CP423
 # Description: Script to parse each document and combine into a corpus
 # Note:
-# R09W0259.html does not have an article element
-# R96Q0050.html does not have an article element
-# R96S0106.html does not have an article element
+# R09W0259.html, R96Q0050.html and R96S0106.html do not have an article element
 
 from bs4 import BeautifulSoup
 import os
@@ -16,28 +14,30 @@ from nltk.tokenize import word_tokenize
 import string
 from nltk.stem import WordNetLemmatizer
 
-doc_info = pd.read_csv("doc_info.csv")
+# Constants
+REM_WORDS = set(stopwords.words('english'))
+REM_WORDS.update(set(string.punctuation))
+REM_WORDS.update(["``", "''", "\n"])
+LEMMATIZER = WordNetLemmatizer()
+
+# Variables and set-up
 metadata = {"title" : [], "creator" : [], "modified" : [], "occurence_date" : [], "release_date" : []}
 doc_lengths = []
+
 all_reports = os.listdir("reports")
-index = pd.DataFrame()
+doc_info = pd.read_csv("doc_info.csv")
 
 def pre_process(text):
-    ## Clean, then tokenize. Next, remove stopwords and lemmatize.
-    # Remove all characters except for alphabet, space or newlines before tokenizing
-    text = re.sub(r'[^a-zA-Z \n]', '', text) #re.sub(r"[\d_']", '', text)
+    global REM_WORDS, LEMMATIZER
+    # Clean, then tokenize.
+    # Replace with space all characters except for alphabet, newlines or spaces before tokenizing
+    text = re.sub(r'[^a-zA-Z\n]', ' ', text)
     text = text.lower()
     words = word_tokenize(text)
 
-    # Remove stopwords
-    remove_words = set(stopwords.words('english'))
-    remove_words.update(set(string.punctuation))
-    remove_words.update(["``", "''", "\n"])
-    filtered = [w for w in words if w.lower() not in remove_words]
-
-    # Lemmatize
-    lemmatizer = WordNetLemmatizer()
-    lemmas = [lemmatizer.lemmatize(token) for token in filtered]
+    # Remove stopwords and lemmatize
+    filtered = [w for w in words if w.lower() not in REM_WORDS]
+    lemmas = [LEMMATIZER.lemmatize(token) for token in filtered]
 
     return lemmas
 
@@ -62,66 +62,71 @@ def construct_inverted_index(ind):
 
     return inverted_ind
 
-for report in all_reports:
-    # Read document
-    with open("reports/" + report, "r", encoding = "utf-8") as f:
-        text = f.read()
-    soup = BeautifulSoup(text, "html.parser")
+def main():
+    index = pd.DataFrame()
+    for i in range(len(all_reports)):
+        # Read document
+        with open("reports/" + all_reports[i], "r", encoding = "utf-8") as f:
+            text = f.read()
+        soup = BeautifulSoup(text, "html.parser")
 
-    # Save metadata information
-    for i in ['title', 'creator', 'modified']:
-        meta = soup.find('meta', attrs={'name': f'dcterms.{i}'})
-        if meta:
-            metadata[i].append(meta.get('content'))
-        else:
-            metadata[i].append(None)
+        # Save metadata information
+        for j in ['title', 'creator', 'modified']:
+            meta = soup.find('meta', attrs={'name': f'dcterms.{j}'})
+            if meta:
+                metadata[j].append(meta.get('content'))
+            else:
+                metadata[j].append(None)
 
-    # Extract key times from report
-    times = soup.find_all("time")
-    if times:
-        metadata["occurence_date"].append(times[0].text)
-        if len(times) > 1:
-            metadata["release_date"].append(times[1].text)
+        # Extract key times from report
+        times = soup.find_all("time")
+        if times:
+            metadata["occurence_date"].append(times[0].text)
+            if len(times) > 1:
+                metadata["release_date"].append(times[1].text)
+            else:
+                metadata["release_date"].append(None)
         else:
+            metadata["occurence_date"].append(None)
             metadata["release_date"].append(None)
-    else:
-        metadata["occurence_date"].append(None)
-        metadata["release_date"].append(None)
 
-    # Main file content
-    if soup.find('title'):
-        text = soup.find('title').text + " "
-    else:
-        text = ""
-    if soup.find('article'):
-        text = soup.find('article').text
-    else:
-        print(f"{report} does not have an article element")
+        # Main file content
+        if soup.find('title'):
+            text = soup.find('title').text + " "
+        else:
+            text = ""
+        if soup.find('article'):
+            text = soup.find('article').get_text(separator=" ")
+        else:
+            print(f"{all_reports[i]} does not have an article element")
 
-    # Pre-process the text, then get term-doc information
-    # tokens = pre_process(text)
-    # doc_lengths.append(len(tokens))
-    # term_frequencies = create_doc_index(report, tokens)
+        # Pre-process the text, then get term-doc information
+        tokens = pre_process(text)
+        doc_lengths.append(len(tokens))
+        term_frequencies = create_doc_index(i, tokens)
 
-#     # Add this document's terms to the overall index
-#     index = pd.concat([index, term_frequencies])
+        # Testing if pre-processing is sufficient
+        # with open("test.txt", "w") as f:
+        #     f.write(text)
+        #     f.write("\n" + str(tokens))
 
-# # Create inverted index
-# index = index.rename(columns={"index":"term"})
-# index.to_csv("index.csv")
-# inverted_index = construct_inverted_index(index)
-# print(f"There are {len(inverted_index)} terms in the vocabulary/inverted index")
-# pd.DataFrame(inverted_index).to_csv("inverted_index.csv")
+        # Add this document's terms to the overall index
+        index = pd.concat([index, term_frequencies])
 
-# Add metadata and document lengths to file
-# for i in metadata: 
-#     doc_info[f"modified_{i}"] = metadata[i]
-# doc_info["doc_length"] = doc_lengths
+    # Create inverted index
+    index = index.rename(columns={"index":"term"})
+    index.to_csv("index.csv")
+    inverted_index = construct_inverted_index(index)
+    print(f"There are {len(inverted_index)} terms in the vocabulary/inverted index")
+    pd.DataFrame(inverted_index).to_csv("inverted_index.csv", index = False)
 
-# Save 
-# doc_info.to_csv("doc_info_updated.csv")
-try:
-    pd.DataFrame(metadata).to_csv("doc_info_updated.csv")
-except Exception as e:
-    for i in metadata:
-        print(len(metadata[i]))
+    # Add metadata and document lengths to file
+    for i in metadata: 
+        doc_info[f"modified_{i}"] = metadata[i]
+    doc_info["doc_length"] = doc_lengths
+
+    # Save
+    doc_info.to_csv("doc_info_updated.csv")
+
+if __name__ == "__main__":
+    main()
