@@ -41,7 +41,6 @@ def chunk_text(text):
     return chunks
 
 def pre_process(text):
-    global REM_WORDS, LEMMATIZER
     # Clean, then tokenize.
     # Replace with space all characters except for alphabet, newlines or spaces before tokenizing
     text = re.sub(r'[^a-zA-Z\n]', ' ', text)
@@ -78,7 +77,6 @@ def construct_inverted_index(ind):
 def main():
     # Variables and set-up
     metadata = []
-    chunk_lengths = []
     index = pd.DataFrame()
     chunk_texts = {"id": [], "text": []}
 
@@ -125,7 +123,6 @@ def main():
             tokens = pre_process(chunk) # preprocessed chunk for BM25
 
             # Add to index and metadata
-            chunk_lengths.append(len(tokens))
             term_frequencies = create_doc_index(chunk_id, tokens)
             index = pd.concat([index, term_frequencies], ignore_index=True)
             metadata.append({
@@ -152,7 +149,7 @@ def main():
     index.to_csv("index.csv")
     inverted_index = construct_inverted_index(index)
     print(f"There are {len(inverted_index)} terms in the vocabulary/inverted index")
-    pd.DataFrame(inverted_index).to_csv("inverted_index.csv", index = False)
+    inverted_index.to_csv("inverted_index.csv", index = False)
 
     # Add metadata and document lengths to file
     chunk_info = pd.DataFrame(metadata)
@@ -162,7 +159,7 @@ def main():
     chunk_info.to_csv("chunk_info.csv", index = False)
     chunk_texts = pd.DataFrame(chunk_texts)
     chunk_texts.to_csv("chunk_texts.csv", index = False)
-    torch.save(chunk_embeddings, "embeddings.pt")
+    torch.save({"chunk_ids": chunk_texts["id"], "embeddings": chunk_embeddings}, "embeddings.pt")
 
 if __name__ == "__main__":
     main()
