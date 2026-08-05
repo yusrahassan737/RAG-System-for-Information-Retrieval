@@ -46,7 +46,21 @@ def precision_at_10(results, relevant_chunks):
 
     return relevant_found / 10
 
+def mean_reciprocal_rank(results, relevant_chunks):
+    """
+    Compute Reciprocal Rank (RR) for a single query.
 
+    Returns:
+        1/rank if the first relevant chunk is found.
+        0 if no relevant chunk is retrieved.
+    """
+    ranked_chunks = results["chunk"].tolist()
+
+    for rank, chunk in enumerate(ranked_chunks, start=1):
+        if chunk in relevant_chunks:
+            return 1 / rank
+
+    return 0
 
 
 results = []
@@ -75,10 +89,22 @@ for question in QUESTIONS:
         question["relevant"]
     )
 
+    bm25_mrr = mean_reciprocal_rank(
+        bm25_scores,
+        question["relevant"]
+    )
+
+    dense_mrr = mean_reciprocal_rank(
+        dense_scores,
+        question["relevant"]
+    )
+
     results.append({
         "Question": question["id"],
         "BM25_P@10": bm25_p10,
-        "Dense_P@10": dense_p10
+        "Dense_P@10": dense_p10,
+        "BM25_MRR": bm25_mrr,
+        "Dense_MRR": dense_mrr
     })
 
 evaluation = pd.DataFrame(results)
@@ -87,6 +113,10 @@ print(evaluation)
 
 evaluation.to_csv("evaluation.csv", index=False)
 
-print("\nAverage BM25 Precision@10:", evaluation["BM25_P@10"].mean(),3)
-print("Average Dense Precision@10:", evaluation["Dense_P@10"].mean(),3)
+print("\nAverage BM25 Precision@10:", round(evaluation["BM25_P@10"].mean(), 3))
+print("Average Dense Precision@10:", round(evaluation["Dense_P@10"].mean(), 3))
+
+print("\nAverage BM25 MRR:", round(evaluation["BM25_MRR"].mean(), 3))
+print("Average Dense MRR:", round(evaluation["Dense_MRR"].mean(), 3))
+
 print("\nSaved Results evaluation.csv")
