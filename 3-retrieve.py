@@ -84,10 +84,24 @@ def dense_retrieval(query, chunks, embeddings):
     results["rank"] = range(1, len(results) + 1)
 
     return results
-
-def llm_response(query, relevance_scores, context_chunks):
+def llm_response(query, relevance_scores, context_chunks, chunk_info):
     top_chunks = relevance_scores["chunk"].tolist()
-    joined_context = "\n".join([f"[{chunk_id}]\n- {context_chunks.loc[context_chunks["id"] == chunk_id, "text"].item()}" for chunk_id in top_chunks])
+
+    context_blocks = []
+    for chunk_id in top_chunks:
+        text = context_chunks.loc[context_chunks["id"] == chunk_id, "text"].item()
+        meta = chunk_info.loc[chunk_info["chunk_id"] == chunk_id].iloc[0] # adding metadata into the context for stronger responses
+
+        block = (
+            f"[{chunk_id}]\n"
+            f"Title: {meta['title']}\n"
+            f"Occurrence date: {meta['occurence_date']}\n"
+            f"Release date: {meta['release_date']}\n"
+            f"- {text}"
+        )
+        context_blocks.append(block)
+
+    joined_context = "\n\n".join(context_blocks)
 
     system_instruction = """
     You are answering questions about Transportation Safety Board of Canada rail investigation reports.
@@ -120,15 +134,7 @@ def llm_response(query, relevance_scores, context_chunks):
         options = {'temperature': 0.6}  # set lower than the default 0.8 to encourage more factual, deterministic outputs
     )
 
-    print(top_chunks)
-    print(system_instruction) 
-    print(user_prompt)
-    for chunk_id in top_chunks:
-        print("=" * 80)
-        print(chunk_id)
-        print(context_chunks.loc[context_chunks["id"] == chunk_id, "text"].item())
-
-    print(response['message']['content']) 
+    return response['message']['content']
 
 def main():
     # need to do long way of importing because of file naming
@@ -154,9 +160,8 @@ def main():
     dense_scores.to_csv("dense_results.csv", index= False)
 
     # LLM Results
-    # print() # bm25
-    # print() # dense retrieval
-    llm_response(inp_query, bm25_scores, chunks)
-    llm_response(inp_query, dense_scores, chunks)
+    print(llm_response(inp_query, bm25_scores, chunks, chunk_info)) # bm25
+    print(llm_response(inp_query, dense_scores, chunks, chunk_info)) # dense retrieval
+    
 if __name__ == "__main__":
     main()
