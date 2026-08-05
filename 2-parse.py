@@ -20,26 +20,36 @@ REM_WORDS = set(stopwords.words('english'))
 REM_WORDS.update(set(string.punctuation))
 REM_WORDS.update(["``", "''", "\n"])
 LEMMATIZER = WordNetLemmatizer()
-CHUNK_SIZE = 250
-CHUNK_OVERLAP = 50
 MODEL = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
-def chunk_text(text):
-    # Split text
-    chunks = []
-    start = 0
+def chunk_text(text, max_tokens=200, overlap=40): # should now avoid truncation problem with dense retrieval
+    tokenizer = MODEL.tokenizer # uses the same tokenizer the embedding model uses to measure length correctly, instead of using num-words
     words = text.split()
 
-    # Break up text, overlapping to capture context
+    chunks = []
+    start = 0
     while start < len(words):
-        end = start + CHUNK_SIZE
+        # Grow the chunk word-by-word until adding another word would exceed max_tokens
+        end = start
+        while end < len(words):
+            candidate = " ".join(words[start:end + 1])
+            token_len = len(tokenizer.encode(candidate, add_special_tokens=True))
+            if token_len > max_tokens:
+                break
+            end += 1
+
+        # Ensure at least one word is included
+        if end == start:
+            end = start + 1
+
         chunk = " ".join(words[start:end])
         chunks.append(chunk)
+
         if end >= len(words):
             break
-        start += CHUNK_SIZE - CHUNK_OVERLAP
+        # Move start forward, leaving 'overlap' words of context
+        start = max(start + 1, end - overlap)
     return chunks
-
 def pre_process(text):
     # Clean, then tokenize.
     # Replace with space all characters except for alphabet, newlines or spaces before tokenizing
@@ -114,6 +124,16 @@ def main():
         else:
             print(f"{all_reports[i]} does not have an article element")
 
+        # Remove redundant/legal information
+        all_useless_text = ["The Transportation Safety Board of Canada (TSB) investigated this occurrence for the purpose of advancing transportation safety.",
+            "It is not the function of the Board to assign fault or determine civil or criminal liability.",
+            "This report is not created for use in the context of legal, disciplinary or other proceedings.",
+            "Download this investigation report in PDF", "Table of contents",
+            "Le présent rapport est également disponible en français."]
+        for useless_text in all_useless_text:
+            text = text.replace(useless_text, "")
+
+        # Chunk text
         chunked = chunk_text(re.sub(r"\s+", " ", text).strip()) # remove all extra spaces
         for chunk_num, chunk in enumerate(chunked):
             # Save text/tokens for retrieval
@@ -159,7 +179,7 @@ def main():
     chunk_info.to_csv("chunk_info.csv", index = False)
     chunk_texts = pd.DataFrame(chunk_texts)
     chunk_texts.to_csv("chunk_texts.csv", index = False)
-    torch.save({"chunk_ids": chunk_texts["id"], "embeddings": chunk_embeddings}, "embeddings.pt")
+    torch.save({"chunk_ids": chunk_texts["id"].tolist(), "embeddings": chunk_embeddings}, "embeddings.pt")
 
 if __name__ == "__main__":
     main()
