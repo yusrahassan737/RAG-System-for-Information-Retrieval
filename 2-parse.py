@@ -120,7 +120,7 @@ def main():
         else:
             text = ""
         if soup.find('article'):
-            text = soup.find('article').get_text(separator=" ")
+            text += soup.find('article').get_text(separator=" ")
         else:
             print(f"{all_reports[i]} does not have an article element")
 

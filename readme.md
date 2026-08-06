@@ -1,4 +1,4 @@
-##CP423 Course Project
+## CP423 Course Project
 # RAG System for Canada Rail Transportation Safety Reports
 
 ## Overview
